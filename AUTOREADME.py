@@ -35,6 +35,7 @@ def generate_form(N=1220, W=3):
     for i in range(nrows):
         for j in range(W):
             no = W * i + j + 1
+            no = no if no <= N else ''
             if no in filemap:
                 category, path = filemap[no]
                 text += '|    [{}]({})    |    {}    '.format(no, path, category)
