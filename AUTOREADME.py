@@ -14,7 +14,7 @@ def scan_files(directory, postfix=None):
 
 
 def generate_text():
-    text = "## leetcode solutions.\n\n### This is the hub recording my progress on leetcode.\n\n\n"
+    text = "## LeetCode Solutions\n\n### This is the hub recording my progress on leetcode.\n\n\n"
     return text
 
 

@@ -1,4 +1,4 @@
-## leetcode solutions.
+## LeetCode Solutions
 
 ### This is the hub recording my progress on leetcode.
 
