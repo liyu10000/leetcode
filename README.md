@@ -49,7 +49,7 @@
 |    124    |        |    125    |        |    126    |        |
 |    [127](https://github.com/liyu10000/leetcode/blob/master/breadth-first-search/%23127.py)    |    breadth-first-search    |    128    |        |    129    |        |
 |    130    |        |    131    |        |    132    |        |
-|    133    |        |    [134](https://github.com/liyu10000/leetcode/blob/master/greedy/%23134.py)    |    greedy    |    135    |        |
+|    [133](https://github.com/liyu10000/leetcode/blob/master/graph/%23133.py)    |    graph    |    [134](https://github.com/liyu10000/leetcode/blob/master/greedy/%23134.py)    |    greedy    |    135    |        |
 |    [136](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23136.py)    |    hash-table    |    137    |        |    [138](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23138.py)    |    hash-table    |
 |    139    |        |    140    |        |    141    |        |
 |    142    |        |    143    |        |    [144](https://github.com/liyu10000/leetcode/blob/master/stack/%23144.py)    |    stack    |
@@ -73,8 +73,8 @@
 |    196    |        |    197    |        |    198    |        |
 |    199    |        |    200    |        |    201    |        |
 |    202    |        |    203    |        |    204    |        |
-|    205    |        |    206    |        |    207    |        |
-|    [208](https://github.com/liyu10000/leetcode/blob/master/design/%23208.py)    |    design    |    209    |        |    210    |        |
+|    205    |        |    206    |        |    [207](https://github.com/liyu10000/leetcode/blob/master/graph/%23207.py)    |    graph    |
+|    [208](https://github.com/liyu10000/leetcode/blob/master/design/%23208.py)    |    design    |    209    |        |    [210](https://github.com/liyu10000/leetcode/blob/master/graph/%23210.py)    |    graph    |
 |    [211](https://github.com/liyu10000/leetcode/blob/master/design/%23211.py)    |    design    |    212    |        |    213    |        |
 |    214    |        |    215    |        |    216    |        |
 |    217    |        |    218    |        |    219    |        |
@@ -108,14 +108,14 @@
 |    301    |        |    302    |        |    303    |        |
 |    304    |        |    305    |        |    306    |        |
 |    307    |        |    308    |        |    309    |        |
-|    310    |        |    311    |        |    312    |        |
+|    [310](https://github.com/liyu10000/leetcode/blob/master/graph/%23310.py)    |    graph    |    311    |        |    312    |        |
 |    313    |        |    314    |        |    315    |        |
 |    316    |        |    317    |        |    318    |        |
 |    319    |        |    320    |        |    321    |        |
 |    322    |        |    323    |        |    324    |        |
 |    325    |        |    326    |        |    327    |        |
 |    328    |        |    329    |        |    330    |        |
-|    331    |        |    332    |        |    333    |        |
+|    331    |        |    [332](https://github.com/liyu10000/leetcode/blob/master/graph/%23332.py)    |    graph    |    333    |        |
 |    334    |        |    335    |        |    336    |        |
 |    337    |        |    338    |        |    339    |        |
 |    340    |        |    341    |        |    342    |        |
