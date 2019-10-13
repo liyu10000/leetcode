@@ -18,7 +18,7 @@ def generate_text():
     return text
 
 
-def generate_form(N=1220, W=2):
+def generate_form(N=1220, W=3):
     root = 'https://github.com/liyu10000/leetcode/blob/master'
 
     pyfiles = scan_files('./', postfix='.py')
@@ -29,7 +29,7 @@ def generate_form(N=1220, W=2):
         number = int(os.path.splitext(os.path.basename(f))[0][1:])
         filemap[number] = (category, '{}/{}/%23{}.py'.format(root, category, number))
 
-    nrows = N // W
+    nrows = N // W + (N % W > 0)
     text  = '|    No.    |    Category    ' * W + '|\n'
     text += '|:---------:|:--------------:' * W + '|\n'
     for i in range(nrows):
