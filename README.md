@@ -11,8 +11,8 @@
 |    10    |        |    [11](https://github.com/liyu10000/leetcode/blob/master/array/%2311.py)    |    array    |    [12](https://github.com/liyu10000/leetcode/blob/master/math/%2312.py)    |    math    |
 |    [13](https://github.com/liyu10000/leetcode/blob/master/string/%2313.py)    |    string    |    [14](https://github.com/liyu10000/leetcode/blob/master/string/%2314.py)    |    string    |    [15](https://github.com/liyu10000/leetcode/blob/master/array/%2315.py)    |    array    |
 |    [16](https://github.com/liyu10000/leetcode/blob/master/array/%2316.py)    |    array    |    [17](https://github.com/liyu10000/leetcode/blob/master/string/%2317.py)    |    string    |    [18](https://github.com/liyu10000/leetcode/blob/master/array/%2318.py)    |    array    |
-|    [19](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2319.py)    |    two-pointers    |    [20](https://github.com/liyu10000/leetcode/blob/master/string/%2320.py)    |    string    |    21    |        |
-|    [22](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2322.py)    |    backtracking    |    23    |        |    24    |        |
+|    [19](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2319.py)    |    two-pointers    |    [20](https://github.com/liyu10000/leetcode/blob/master/string/%2320.py)    |    string    |    [21](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2321.py)    |    linked-list    |
+|    [22](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2322.py)    |    backtracking    |    23    |        |    [24](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2324.py)    |    linked-list    |
 |    25    |        |    [26](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2326.py)    |    two-pointers    |    [27](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2327.py)    |    two-pointers    |
 |    [28](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2328.py)    |    two-pointers    |    [29](https://github.com/liyu10000/leetcode/blob/master/binary-search/%2329.py)    |    binary-search    |    30    |        |
 |    31    |        |    32    |        |    [33](https://github.com/liyu10000/leetcode/blob/master/binary-search/%2333.py)    |    binary-search    |
@@ -32,8 +32,8 @@
 |    73    |        |    74    |        |    75    |        |
 |    76    |        |    77    |        |    78    |        |
 |    79    |        |    80    |        |    81    |        |
-|    82    |        |    83    |        |    84    |        |
-|    85    |        |    86    |        |    87    |        |
+|    [82](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2382.py)    |    linked-list    |    [83](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2383.py)    |    linked-list    |    84    |        |
+|    85    |        |    [86](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2386.py)    |    linked-list    |    87    |        |
 |    88    |        |    89    |        |    90    |        |
 |    91    |        |    92    |        |    93    |        |
 |    [94](https://github.com/liyu10000/leetcode/blob/master/tree/%2394.py)    |    tree    |    [95](https://github.com/liyu10000/leetcode/blob/master/tree/%2395.py)    |    tree    |    [96](https://github.com/liyu10000/leetcode/blob/master/tree/%2396.py)    |    tree    |
