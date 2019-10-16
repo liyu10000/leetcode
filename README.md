@@ -30,7 +30,7 @@
 |    67    |        |    68    |        |    69    |        |
 |    70    |        |    [71](https://github.com/liyu10000/leetcode/blob/master/stack/%2371.py)    |    stack    |    72    |        |
 |    73    |        |    74    |        |    [75](https://github.com/liyu10000/leetcode/blob/master/sort/%2375.py)    |    sort    |
-|    76    |        |    77    |        |    78    |        |
+|    76    |        |    77    |        |    [78](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%2378.py)    |    bit-manipulation    |
 |    79    |        |    80    |        |    81    |        |
 |    [82](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2382.py)    |    linked-list    |    [83](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2383.py)    |    linked-list    |    84    |        |
 |    85    |        |    [86](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2386.py)    |    linked-list    |    87    |        |
@@ -50,7 +50,7 @@
 |    [127](https://github.com/liyu10000/leetcode/blob/master/breadth-first-search/%23127.py)    |    breadth-first-search    |    128    |        |    129    |        |
 |    130    |        |    131    |        |    132    |        |
 |    [133](https://github.com/liyu10000/leetcode/blob/master/graph/%23133.py)    |    graph    |    [134](https://github.com/liyu10000/leetcode/blob/master/greedy/%23134.py)    |    greedy    |    135    |        |
-|    [136](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23136.py)    |    hash-table    |    137    |        |    [138](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23138.py)    |    hash-table    |
+|    [136](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23136.py)    |    hash-table    |    [137](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%23137.py)    |    bit-manipulation    |    [138](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23138.py)    |    hash-table    |
 |    139    |        |    140    |        |    141    |        |
 |    142    |        |    143    |        |    [144](https://github.com/liyu10000/leetcode/blob/master/stack/%23144.py)    |    stack    |
 |    [145](https://github.com/liyu10000/leetcode/blob/master/stack/%23145.py)    |    stack    |    [146](https://github.com/liyu10000/leetcode/blob/master/design/%23146.py)    |    design    |    [147](https://github.com/liyu10000/leetcode/blob/master/sort/%23147.py)    |    sort    |
@@ -61,14 +61,14 @@
 |    160    |        |    161    |        |    162    |        |
 |    163    |        |    164    |        |    165    |        |
 |    [166](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23166.py)    |    hash-table    |    167    |        |    168    |        |
-|    169    |        |    170    |        |    171    |        |
+|    [169](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%23169.py)    |    bit-manipulation    |    170    |        |    171    |        |
 |    172    |        |    [173](https://github.com/liyu10000/leetcode/blob/master/design/%23173.py)    |    design    |    174    |        |
 |    175    |        |    176    |        |    177    |        |
 |    178    |        |    179    |        |    180    |        |
 |    181    |        |    182    |        |    183    |        |
 |    184    |        |    185    |        |    186    |        |
-|    187    |        |    188    |        |    189    |        |
-|    190    |        |    191    |        |    192    |        |
+|    [187](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%23187.py)    |    bit-manipulation    |    188    |        |    189    |        |
+|    [190](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%23190.cpp)    |    bit-manipulation    |    191    |        |    192    |        |
 |    193    |        |    194    |        |    195    |        |
 |    196    |        |    197    |        |    198    |        |
 |    199    |        |    200    |        |    201    |        |

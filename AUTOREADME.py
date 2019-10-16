@@ -21,13 +21,14 @@ def generate_text():
 def generate_form(N=1220, W=3):
     root = 'https://github.com/liyu10000/leetcode/blob/master'
 
-    pyfiles = scan_files('./', postfix='.py')
+    pyfiles = scan_files('./', postfix='.py') + scan_files('./', postfix='.cpp')
     pyfiles.remove('./AUTOREADME.py')
     filemap = {}
     for f in pyfiles:
         category = os.path.basename(os.path.dirname(f))
-        number = int(os.path.splitext(os.path.basename(f))[0][1:])
-        filemap[number] = (category, '{}/{}/%23{}.py'.format(root, category, number))
+        number, ftype = os.path.splitext(os.path.basename(f))
+        number = int(number[1:])
+        filemap[number] = (category, '{}/{}/%23{}{}'.format(root, category, number, ftype))
 
     nrows = N // W + (N % W > 0)
     text  = '|    No.    |    Category    ' * W + '|\n'
