@@ -48,7 +48,7 @@
 |    121    |        |    [122](https://github.com/liyu10000/leetcode/blob/master/greedy/%23122.py)    |    greedy    |    123    |        |
 |    124    |        |    125    |        |    126    |        |
 |    [127](https://github.com/liyu10000/leetcode/blob/master/breadth-first-search/%23127.py)    |    breadth-first-search    |    128    |        |    129    |        |
-|    130    |        |    131    |        |    132    |        |
+|    [130](https://github.com/liyu10000/leetcode/blob/master/union-find/%23130.py)    |    union-find    |    131    |        |    132    |        |
 |    [133](https://github.com/liyu10000/leetcode/blob/master/graph/%23133.py)    |    graph    |    [134](https://github.com/liyu10000/leetcode/blob/master/greedy/%23134.py)    |    greedy    |    135    |        |
 |    [136](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23136.py)    |    hash-table    |    [137](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%23137.py)    |    bit-manipulation    |    [138](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23138.py)    |    hash-table    |
 |    139    |        |    140    |        |    141    |        |
@@ -71,7 +71,7 @@
 |    [190](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%23190.cpp)    |    bit-manipulation    |    191    |        |    192    |        |
 |    193    |        |    194    |        |    195    |        |
 |    196    |        |    197    |        |    198    |        |
-|    199    |        |    200    |        |    201    |        |
+|    199    |        |    [200](https://github.com/liyu10000/leetcode/blob/master/union-find/%23200.py)    |    union-find    |    201    |        |
 |    202    |        |    203    |        |    204    |        |
 |    205    |        |    206    |        |    [207](https://github.com/liyu10000/leetcode/blob/master/graph/%23207.py)    |    graph    |
 |    [208](https://github.com/liyu10000/leetcode/blob/master/design/%23208.py)    |    design    |    209    |        |    [210](https://github.com/liyu10000/leetcode/blob/master/graph/%23210.py)    |    graph    |
@@ -137,7 +137,7 @@
 |    388    |        |    389    |        |    390    |        |
 |    391    |        |    [392](https://github.com/liyu10000/leetcode/blob/master/greedy/%23392.py)    |    greedy    |    393    |        |
 |    394    |        |    395    |        |    396    |        |
-|    397    |        |    398    |        |    399    |        |
+|    397    |        |    398    |        |    [399](https://github.com/liyu10000/leetcode/blob/master/union-find/%23399.py)    |    union-find    |
 |    400    |        |    401    |        |    402    |        |
 |    403    |        |    404    |        |    405    |        |
 |    406    |        |    407    |        |    408    |        |
@@ -187,7 +187,7 @@
 |    538    |        |    539    |        |    540    |        |
 |    541    |        |    542    |        |    543    |        |
 |    544    |        |    545    |        |    546    |        |
-|    547    |        |    548    |        |    549    |        |
+|    [547](https://github.com/liyu10000/leetcode/blob/master/union-find/%23547.py)    |    union-find    |    548    |        |    549    |        |
 |    550    |        |    551    |        |    552    |        |
 |    553    |        |    554    |        |    555    |        |
 |    556    |        |    557    |        |    558    |        |
@@ -232,7 +232,7 @@
 |    673    |        |    674    |        |    675    |        |
 |    676    |        |    677    |        |    678    |        |
 |    679    |        |    680    |        |    681    |        |
-|    682    |        |    683    |        |    684    |        |
+|    682    |        |    683    |        |    [684](https://github.com/liyu10000/leetcode/blob/master/union-find/%23684.py)    |    union-find    |
 |    685    |        |    686    |        |    687    |        |
 |    688    |        |    689    |        |    690    |        |
 |    691    |        |    692    |        |    693    |        |
