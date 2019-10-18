@@ -145,7 +145,7 @@
 |    412    |        |    413    |        |    414    |        |
 |    415    |        |    416    |        |    417    |        |
 |    418    |        |    419    |        |    420    |        |
-|    421    |        |    422    |        |    423    |        |
+|    [421](https://github.com/liyu10000/leetcode/blob/master/trie/%23421.py)    |    trie    |    422    |        |    423    |        |
 |    [424](https://github.com/liyu10000/leetcode/blob/master/sliding-window/%23424.py)    |    sliding-window    |    425    |        |    426    |        |
 |    427    |        |    428    |        |    429    |        |
 |    430    |        |    431    |        |    432    |        |
@@ -220,7 +220,7 @@
 |    637    |        |    638    |        |    639    |        |
 |    640    |        |    641    |        |    642    |        |
 |    643    |        |    644    |        |    645    |        |
-|    646    |        |    647    |        |    648    |        |
+|    646    |        |    647    |        |    [648](https://github.com/liyu10000/leetcode/blob/master/trie/%23648.py)    |    trie    |
 |    649    |        |    650    |        |    651    |        |
 |    652    |        |    653    |        |    654    |        |
 |    655    |        |    656    |        |    657    |        |
@@ -230,12 +230,12 @@
 |    667    |        |    668    |        |    669    |        |
 |    670    |        |    671    |        |    672    |        |
 |    673    |        |    674    |        |    675    |        |
-|    676    |        |    677    |        |    678    |        |
+|    [676](https://github.com/liyu10000/leetcode/blob/master/trie/%23676.py)    |    trie    |    [677](https://github.com/liyu10000/leetcode/blob/master/trie/%23677.py)    |    trie    |    678    |        |
 |    679    |        |    680    |        |    681    |        |
 |    682    |        |    683    |        |    [684](https://github.com/liyu10000/leetcode/blob/master/union-find/%23684.py)    |    union-find    |
 |    685    |        |    686    |        |    687    |        |
 |    688    |        |    689    |        |    690    |        |
-|    691    |        |    692    |        |    693    |        |
+|    691    |        |    [692](https://github.com/liyu10000/leetcode/blob/master/trie/%23692.py)    |    trie    |    693    |        |
 |    694    |        |    695    |        |    696    |        |
 |    697    |        |    698    |        |    699    |        |
 |    700    |        |    701    |        |    702    |        |
