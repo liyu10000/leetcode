@@ -6,7 +6,7 @@
 |    No.    |    Category    |    No.    |    Category    |    No.    |    Category    |
 |:---------:|:--------------:|:---------:|:--------------:|:---------:|:--------------:|
 |    [1](https://github.com/liyu10000/leetcode/blob/master/array/%231.py)    |    array    |    [2](https://github.com/liyu10000/leetcode/blob/master/math/%232.py)    |    math    |    [3](https://github.com/liyu10000/leetcode/blob/master/string/%233.py)    |    string    |
-|    4    |        |    [5](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%235.py)    |    dynamic-programming    |    6    |        |
+|    [4](https://github.com/liyu10000/leetcode/blob/master/divide-and-conquer/%234.py)    |    divide-and-conquer    |    [5](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%235.py)    |    dynamic-programming    |    6    |        |
 |    [7](https://github.com/liyu10000/leetcode/blob/master/math/%237.py)    |    math    |    [8](https://github.com/liyu10000/leetcode/blob/master/math/%238.py)    |    math    |    [9](https://github.com/liyu10000/leetcode/blob/master/math/%239.py)    |    math    |
 |    10    |        |    [11](https://github.com/liyu10000/leetcode/blob/master/array/%2311.py)    |    array    |    [12](https://github.com/liyu10000/leetcode/blob/master/math/%2312.py)    |    math    |
 |    [13](https://github.com/liyu10000/leetcode/blob/master/string/%2313.py)    |    string    |    [14](https://github.com/liyu10000/leetcode/blob/master/string/%2314.py)    |    string    |    [15](https://github.com/liyu10000/leetcode/blob/master/array/%2315.py)    |    array    |
@@ -84,8 +84,8 @@
 |    229    |        |    230    |        |    231    |        |
 |    232    |        |    233    |        |    234    |        |
 |    235    |        |    236    |        |    237    |        |
-|    238    |        |    239    |        |    240    |        |
-|    241    |        |    242    |        |    243    |        |
+|    238    |        |    239    |        |    [240](https://github.com/liyu10000/leetcode/blob/master/divide-and-conquer/%23240.py)    |    divide-and-conquer    |
+|    [241](https://github.com/liyu10000/leetcode/blob/master/divide-and-conquer/%23241.py)    |    divide-and-conquer    |    242    |        |    243    |        |
 |    244    |        |    245    |        |    246    |        |
 |    247    |        |    248    |        |    249    |        |
 |    250    |        |    251    |        |    252    |        |
@@ -329,7 +329,7 @@
 |    964    |        |    965    |        |    966    |        |
 |    967    |        |    968    |        |    969    |        |
 |    970    |        |    971    |        |    972    |        |
-|    973    |        |    974    |        |    975    |        |
+|    [973](https://github.com/liyu10000/leetcode/blob/master/divide-and-conquer/%23973.py)    |    divide-and-conquer    |    974    |        |    975    |        |
 |    976    |        |    977    |        |    [978](https://github.com/liyu10000/leetcode/blob/master/sliding-window/%23978.py)    |    sliding-window    |
 |    979    |        |    980    |        |    981    |        |
 |    982    |        |    983    |        |    984    |        |
