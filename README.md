@@ -233,11 +233,11 @@
 |    [676](https://github.com/liyu10000/leetcode/blob/master/trie/%23676.py)    |    trie    |    [677](https://github.com/liyu10000/leetcode/blob/master/trie/%23677.py)    |    trie    |    678    |        |
 |    679    |        |    680    |        |    681    |        |
 |    682    |        |    683    |        |    [684](https://github.com/liyu10000/leetcode/blob/master/union-find/%23684.py)    |    union-find    |
-|    685    |        |    686    |        |    687    |        |
+|    685    |        |    686    |        |    [687](https://github.com/liyu10000/leetcode/blob/master/recursion/%23687.py)    |    recursion    |
 |    688    |        |    689    |        |    690    |        |
 |    691    |        |    [692](https://github.com/liyu10000/leetcode/blob/master/trie/%23692.py)    |    trie    |    693    |        |
 |    694    |        |    695    |        |    696    |        |
-|    697    |        |    698    |        |    699    |        |
+|    697    |        |    [698](https://github.com/liyu10000/leetcode/blob/master/recursion/%23698.py)    |    recursion    |    699    |        |
 |    700    |        |    701    |        |    702    |        |
 |    703    |        |    704    |        |    705    |        |
 |    706    |        |    707    |        |    708    |        |
@@ -264,8 +264,8 @@
 |    769    |        |    770    |        |    771    |        |
 |    772    |        |    773    |        |    774    |        |
 |    775    |        |    776    |        |    777    |        |
-|    778    |        |    779    |        |    780    |        |
-|    781    |        |    782    |        |    783    |        |
+|    778    |        |    [779](https://github.com/liyu10000/leetcode/blob/master/recursion/%23779.py)    |    recursion    |    780    |        |
+|    781    |        |    782    |        |    [783](https://github.com/liyu10000/leetcode/blob/master/recursion/%23783.py)    |    recursion    |
 |    784    |        |    785    |        |    786    |        |
 |    787    |        |    788    |        |    789    |        |
 |    790    |        |    791    |        |    792    |        |
@@ -302,7 +302,7 @@
 |    883    |        |    884    |        |    885    |        |
 |    886    |        |    887    |        |    888    |        |
 |    889    |        |    890    |        |    891    |        |
-|    892    |        |    893    |        |    894    |        |
+|    892    |        |    893    |        |    [894](https://github.com/liyu10000/leetcode/blob/master/recursion/%23894.py)    |    recursion    |
 |    895    |        |    896    |        |    897    |        |
 |    898    |        |    899    |        |    900    |        |
 |    901    |        |    902    |        |    903    |        |
