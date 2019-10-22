@@ -15,18 +15,18 @@
 |    [22](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2322.py)    |    backtracking    |    [23](https://github.com/liyu10000/leetcode/blob/master/heap/%2323.py)    |    heap    |    [24](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2324.py)    |    linked-list    |
 |    25    |        |    [26](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2326.py)    |    two-pointers    |    [27](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2327.py)    |    two-pointers    |
 |    [28](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2328.py)    |    two-pointers    |    [29](https://github.com/liyu10000/leetcode/blob/master/binary-search/%2329.py)    |    binary-search    |    30    |        |
-|    31    |        |    32    |        |    [33](https://github.com/liyu10000/leetcode/blob/master/binary-search/%2333.py)    |    binary-search    |
+|    [31](https://github.com/liyu10000/leetcode/blob/master/array/%2331.py)    |    array    |    32    |        |    [33](https://github.com/liyu10000/leetcode/blob/master/binary-search/%2333.py)    |    binary-search    |
 |    [34](https://github.com/liyu10000/leetcode/blob/master/binary-search/%2334.py)    |    binary-search    |    [35](https://github.com/liyu10000/leetcode/blob/master/binary-search/%2335.py)    |    binary-search    |    [36](https://github.com/liyu10000/leetcode/blob/master/hash-table/%2336.py)    |    hash-table    |
 |    37    |        |    38    |        |    [39](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2339.py)    |    backtracking    |
 |    [40](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2340.py)    |    backtracking    |    41    |        |    42    |        |
 |    43    |        |    44    |        |    45    |        |
-|    [46](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2346.py)    |    backtracking    |    [47](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2347.py)    |    backtracking    |    48    |        |
+|    [46](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2346.py)    |    backtracking    |    [47](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2347.py)    |    backtracking    |    [48](https://github.com/liyu10000/leetcode/blob/master/array/%2348.py)    |    array    |
 |    [49](https://github.com/liyu10000/leetcode/blob/master/hash-table/%2349.py)    |    hash-table    |    [50](https://github.com/liyu10000/leetcode/blob/master/binary-search/%2350.py)    |    binary-search    |    51    |        |
-|    52    |        |    [53](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2353.py)    |    dynamic-programming    |    54    |        |
+|    52    |        |    [53](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2353.py)    |    dynamic-programming    |    [54](https://github.com/liyu10000/leetcode/blob/master/array/%2354.py)    |    array    |
 |    [55](https://github.com/liyu10000/leetcode/blob/master/greedy/%2355.py)    |    greedy    |    [56](https://github.com/liyu10000/leetcode/blob/master/sort/%2356.py)    |    sort    |    [57](https://github.com/liyu10000/leetcode/blob/master/sort/%2357.py)    |    sort    |
-|    58    |        |    59    |        |    60    |        |
+|    58    |        |    [59](https://github.com/liyu10000/leetcode/blob/master/array/%2359.py)    |    array    |    60    |        |
 |    [61](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2361.py)    |    two-pointers    |    [62](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2362.py)    |    dynamic-programming    |    [63](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2363.py)    |    dynamic-programming    |
-|    [64](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2364.py)    |    dynamic-programming    |    65    |        |    66    |        |
+|    [64](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2364.py)    |    dynamic-programming    |    65    |        |    [66](https://github.com/liyu10000/leetcode/blob/master/array/%2366.py)    |    array    |
 |    67    |        |    68    |        |    69    |        |
 |    70    |        |    [71](https://github.com/liyu10000/leetcode/blob/master/stack/%2371.py)    |    stack    |    72    |        |
 |    73    |        |    74    |        |    [75](https://github.com/liyu10000/leetcode/blob/master/sort/%2375.py)    |    sort    |
