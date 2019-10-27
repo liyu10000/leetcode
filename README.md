@@ -24,10 +24,10 @@
 |    [49](https://github.com/liyu10000/leetcode/blob/master/hash-table/%2349.py)    |    hash-table    |    [50](https://github.com/liyu10000/leetcode/blob/master/binary-search/%2350.py)    |    binary-search    |    51    |        |
 |    52    |        |    [53](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2353.py)    |    dynamic-programming    |    [54](https://github.com/liyu10000/leetcode/blob/master/array/%2354.py)    |    array    |
 |    [55](https://github.com/liyu10000/leetcode/blob/master/greedy/%2355.py)    |    greedy    |    [56](https://github.com/liyu10000/leetcode/blob/master/sort/%2356.py)    |    sort    |    [57](https://github.com/liyu10000/leetcode/blob/master/sort/%2357.py)    |    sort    |
-|    58    |        |    [59](https://github.com/liyu10000/leetcode/blob/master/array/%2359.py)    |    array    |    60    |        |
+|    58    |        |    [59](https://github.com/liyu10000/leetcode/blob/master/array/%2359.py)    |    array    |    [60](https://github.com/liyu10000/leetcode/blob/master/math/%2360.py)    |    math    |
 |    [61](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2361.py)    |    two-pointers    |    [62](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2362.py)    |    dynamic-programming    |    [63](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2363.py)    |    dynamic-programming    |
 |    [64](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2364.py)    |    dynamic-programming    |    65    |        |    [66](https://github.com/liyu10000/leetcode/blob/master/array/%2366.py)    |    array    |
-|    67    |        |    68    |        |    69    |        |
+|    [67](https://github.com/liyu10000/leetcode/blob/master/math/%2367.py)    |    math    |    68    |        |    [69](https://github.com/liyu10000/leetcode/blob/master/math/%2369.py)    |    math    |
 |    70    |        |    [71](https://github.com/liyu10000/leetcode/blob/master/stack/%2371.py)    |    stack    |    72    |        |
 |    73    |        |    74    |        |    [75](https://github.com/liyu10000/leetcode/blob/master/sort/%2375.py)    |    sort    |
 |    76    |        |    77    |        |    [78](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%2378.py)    |    bit-manipulation    |
@@ -60,8 +60,8 @@
 |    157    |        |    158    |        |    159    |        |
 |    160    |        |    161    |        |    162    |        |
 |    163    |        |    164    |        |    165    |        |
-|    [166](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23166.py)    |    hash-table    |    167    |        |    168    |        |
-|    [169](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%23169.py)    |    bit-manipulation    |    170    |        |    171    |        |
+|    [166](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23166.py)    |    hash-table    |    167    |        |    [168](https://github.com/liyu10000/leetcode/blob/master/math/%23168.py)    |    math    |
+|    [169](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%23169.py)    |    bit-manipulation    |    170    |        |    [171](https://github.com/liyu10000/leetcode/blob/master/math/%23171.py)    |    math    |
 |    172    |        |    [173](https://github.com/liyu10000/leetcode/blob/master/design/%23173.py)    |    design    |    174    |        |
 |    175    |        |    176    |        |    177    |        |
 |    178    |        |    179    |        |    180    |        |
