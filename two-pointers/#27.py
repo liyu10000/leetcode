@@ -38,3 +38,20 @@ class Solution:
                 nums[newl] = nums[i]
                 newl += 1
         return newl     
+
+# fourth try
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+        head, tail = 0, len(nums) - 1
+        length = 0
+        while head <= tail:
+            if nums[head] == val:
+                while head < tail and nums[tail] == val:
+                    tail -= 1
+                if head < tail:
+                    nums[head], nums[tail] = nums[tail], nums[head]
+                    length += 1
+            else:
+                length += 1
+            head += 1
+        return length
