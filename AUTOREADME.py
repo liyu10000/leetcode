@@ -23,6 +23,7 @@ def generate_form(N=1220, W=3):
 
     pyfiles = scan_files('./', postfix='.py') + scan_files('./', postfix='.cpp')
     pyfiles.remove('./AUTOREADME.py')
+    pyfiles = [f for f in pyfiles if not 'onsite' in f]
     filemap = {}
     for f in pyfiles:
         category = os.path.basename(os.path.dirname(f))
