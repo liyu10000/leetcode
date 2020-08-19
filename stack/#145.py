@@ -8,16 +8,15 @@
 # recursive
 class Solution:
     def postorderTraversal(self, root: TreeNode) -> List[int]:
-        def traverse(node, res):
-            if node is None:
-                return
-            traverse(node.left, res)
-            traverse(node.right, res)
-            res.append(node.val)
-            
-        res = []
-        traverse(root, res)
-        return res
+        vals = []
+        self.postorder(root, vals)
+        return vals
+    
+    def postorder(self, node, vals):
+        if node is not None:
+            self.postorder(node.left, vals)
+            self.postorder(node.right, vals)
+            vals.append(node.val)
 
 # iterative
 class Solution:

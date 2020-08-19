@@ -22,16 +22,13 @@ class Solution:
 # iterative
 class Solution:
     def preorderTraversal(self, root: TreeNode) -> List[int]:
-        if root is None:
-            return []
         res = []
         stack = [root]
         while stack:
             node = stack.pop()
-            res.append(node.val)
-            if node.right:
+            if node is not None:
+                res.append(node.val)
                 stack.append(node.right)
-            if node.left:
                 stack.append(node.left)
         return res
 

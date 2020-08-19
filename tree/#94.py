@@ -29,3 +29,18 @@ class Solution:
                 curr = curr.left
         
         return values
+
+class Solution:
+    def inorderTraversal(self, root: TreeNode) -> List[int]:
+        values = []
+        stack = []
+        curr = root
+        while stack or curr is not None:
+            if curr is not None:
+                stack.append(curr)
+                curr = curr.left
+            else:
+                curr = stack.pop()
+                values.append(curr.val)
+                curr = curr.right
+        return values

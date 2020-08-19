@@ -57,17 +57,16 @@ class Solution:
 
 # third try:
 class Solution:
-    def levelOrder(self, root: TreeNode) -> List[List[int]]:        
-        def helper(node, res, i):
-            if node is None:
-                return 
-            if i == len(res):
-                res.append([])
-            res[i].append(node.val)
-            helper(node.left, res, i+1)
-            helper(node.right, res, i+1)
-        
+    def levelOrder(self, root: TreeNode) -> List[List[int]]:
         res = []
-        helper(root, res, 0)
-            
+        self.level(root, res, 0)
         return res
+                
+    def level(self, node, res, i):
+        if node is None:
+            return 
+        if i == len(res):
+            res.append([])
+        res[i].append(node.val)
+        self.level(node.left, res, i+1)
+        self.level(node.right, res, i+1)
