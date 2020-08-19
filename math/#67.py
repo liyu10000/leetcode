@@ -21,3 +21,21 @@ class Solution:
         if carry:
             c += '1'
         return c[::-1]
+
+class Solution:
+    def addBinary(self, a: str, b: str) -> str:
+        i = len(a) - 1
+        j = len(b) - 1
+        s = ""
+        carry = 0
+        while i >= 0 or j >= 0:
+            d1 = int(a[i]) if i >= 0 else 0
+            d2 = int(b[j]) if j >= 0 else 0
+            carry += d1 + d2
+            s += str(carry % 2)
+            carry //= 2
+            i -= 1
+            j -= 1
+        if carry > 0:
+            s += str(carry)
+        return s[::-1]
