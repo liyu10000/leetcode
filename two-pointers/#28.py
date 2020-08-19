@@ -22,3 +22,22 @@ class Solution:
                 j = 0
             i += 1
         return -1
+
+# third try
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+        if len(needle) == 0:
+            return 0
+        if len(haystack) < len(needle):
+            return -1
+        h_len = len(haystack)
+        n_len = len(needle)
+        for i in range(h_len-n_len+1):
+            match = True
+            for j in range(n_len):
+                if haystack[i+j] != needle[j]:
+                    match = False
+                    break
+            if match:
+                return i
+        return -1
