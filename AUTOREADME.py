@@ -13,12 +13,12 @@ def scan_files(directory, postfix=None):
     return files_list
 
 
-def generate_text():
-    text = "## LeetCode Solutions\n\n### This is the hub recording my progress on leetcode.\n\n\n"
+def generate_text(n, N):
+    text = f"## LeetCode Solutions ({n}/{N})\n\n### This is the hub recording my progress on leetcode.\n\n\n"
     return text
 
 
-def generate_form(N=1220, W=3):
+def generate_form(N, W):
     root = 'https://github.com/liyu10000/leetcode/blob/master'
 
     pyfiles = scan_files('./', postfix='.py') + scan_files('./', postfix='.cpp')
@@ -45,7 +45,7 @@ def generate_form(N=1220, W=3):
                 text += '|    {}    |    {}    '.format(no, '')
         text += '|\n'
 
-    return text
+    return len(pyfiles), text
 
 
 def write(content):
@@ -54,5 +54,9 @@ def write(content):
 
 
 if __name__ == '__main__':
-    content = generate_text() + generate_form()
+    N = 1553
+    W = 3  # number of columns in the form
+    n, form = generate_form(N, W)
+    text = generate_text(n, N)
+    content = text + form
     write(content)
