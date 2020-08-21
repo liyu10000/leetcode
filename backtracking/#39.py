@@ -35,3 +35,21 @@ class Solution:
         combine([], target, 0, res)
         
         return res
+
+# third try: standard backtrack, though with overhead
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        def backtrack(s, curr):
+            if sum(curr) == target:
+                output.append(curr[:])
+            elif sum(curr) > target:
+                return
+            else:
+                for i in range(s, n):
+                    curr.append(candidates[i])
+                    backtrack(i, curr)
+                    curr.pop()
+        n = len(candidates)
+        output = []
+        backtrack(0, [])
+        return output
