@@ -14,3 +14,10 @@ class Solution:
                 a[i][j] = a[i-1][j] + a[i][j-1]
         return a[n-1][m-1]
 
+class Solution:
+    def uniquePaths(self, m: int, n: int) -> int:
+        arr = [[1 for _ in range(n+1)] for _ in range(m+1)]
+        for i in range(2, m+1):
+            for j in range(2, n+1):
+                arr[i][j] = arr[i-1][j] + arr[i][j-1]
+        return arr[m][n]
