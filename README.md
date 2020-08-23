@@ -1,4 +1,4 @@
-## LeetCode Solutions (145/1553)
+## LeetCode Solutions (153/1553)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -28,7 +28,7 @@
 |    [61](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2361.py)    |    two-pointers    |    [62](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2362.py)    |    dynamic-programming    |    [63](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2363.py)    |    dynamic-programming    |
 |    [64](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2364.py)    |    dynamic-programming    |    65    |        |    [66](https://github.com/liyu10000/leetcode/blob/master/array/%2366.py)    |    array    |
 |    [67](https://github.com/liyu10000/leetcode/blob/master/math/%2367.py)    |    math    |    68    |        |    [69](https://github.com/liyu10000/leetcode/blob/master/math/%2369.py)    |    math    |
-|    70    |        |    [71](https://github.com/liyu10000/leetcode/blob/master/stack/%2371.py)    |    stack    |    72    |        |
+|    [70](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2370.py)    |    dynamic-programming    |    [71](https://github.com/liyu10000/leetcode/blob/master/stack/%2371.py)    |    stack    |    72    |        |
 |    73    |        |    74    |        |    [75](https://github.com/liyu10000/leetcode/blob/master/sort/%2375.py)    |    sort    |
 |    76    |        |    [77](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2377.py)    |    backtracking    |    [78](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%2378.py)    |    bit-manipulation    |
 |    79    |        |    [80](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2380.py)    |    two-pointers    |    81    |        |
@@ -51,7 +51,7 @@
 |    [130](https://github.com/liyu10000/leetcode/blob/master/union-find/%23130.py)    |    union-find    |    131    |        |    132    |        |
 |    [133](https://github.com/liyu10000/leetcode/blob/master/graph/%23133.py)    |    graph    |    [134](https://github.com/liyu10000/leetcode/blob/master/greedy/%23134.py)    |    greedy    |    135    |        |
 |    [136](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23136.py)    |    hash-table    |    [137](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%23137.py)    |    bit-manipulation    |    [138](https://github.com/liyu10000/leetcode/blob/master/hash-table/%23138.py)    |    hash-table    |
-|    [139](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23139.py)    |    dynamic-programming    |    140    |        |    141    |        |
+|    [139](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23139.py)    |    dynamic-programming    |    140    |        |    [141](https://github.com/liyu10000/leetcode/blob/master/linked-list/%23141.py)    |    linked-list    |
 |    142    |        |    143    |        |    [144](https://github.com/liyu10000/leetcode/blob/master/stack/%23144.py)    |    stack    |
 |    [145](https://github.com/liyu10000/leetcode/blob/master/stack/%23145.py)    |    stack    |    [146](https://github.com/liyu10000/leetcode/blob/master/design/%23146.py)    |    design    |    [147](https://github.com/liyu10000/leetcode/blob/master/sort/%23147.py)    |    sort    |
 |    [148](https://github.com/liyu10000/leetcode/blob/master/sort/%23148.py)    |    sort    |    149    |        |    [150](https://github.com/liyu10000/leetcode/blob/master/stack/%23150.py)    |    stack    |
@@ -73,7 +73,7 @@
 |    196    |        |    197    |        |    198    |        |
 |    199    |        |    [200](https://github.com/liyu10000/leetcode/blob/master/union-find/%23200.py)    |    union-find    |    201    |        |
 |    202    |        |    203    |        |    204    |        |
-|    205    |        |    206    |        |    [207](https://github.com/liyu10000/leetcode/blob/master/graph/%23207.py)    |    graph    |
+|    205    |        |    [206](https://github.com/liyu10000/leetcode/blob/master/linked-list/%23206.py)    |    linked-list    |    [207](https://github.com/liyu10000/leetcode/blob/master/graph/%23207.py)    |    graph    |
 |    [208](https://github.com/liyu10000/leetcode/blob/master/design/%23208.py)    |    design    |    209    |        |    [210](https://github.com/liyu10000/leetcode/blob/master/graph/%23210.py)    |    graph    |
 |    [211](https://github.com/liyu10000/leetcode/blob/master/design/%23211.py)    |    design    |    212    |        |    213    |        |
 |    214    |        |    [215](https://github.com/liyu10000/leetcode/blob/master/heap/%23215.py)    |    heap    |    216    |        |
@@ -105,7 +105,7 @@
 |    292    |        |    293    |        |    294    |        |
 |    295    |        |    296    |        |    297    |        |
 |    298    |        |    [299](https://github.com/liyu10000/leetcode/blob/master/array/%23299.py)    |    array    |    300    |        |
-|    301    |        |    302    |        |    303    |        |
+|    301    |        |    302    |        |    [303](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23303.py)    |    dynamic-programming    |
 |    304    |        |    305    |        |    306    |        |
 |    307    |        |    308    |        |    309    |        |
 |    [310](https://github.com/liyu10000/leetcode/blob/master/graph/%23310.py)    |    graph    |    311    |        |    312    |        |
@@ -234,7 +234,7 @@
 |    679    |        |    680    |        |    681    |        |
 |    682    |        |    683    |        |    [684](https://github.com/liyu10000/leetcode/blob/master/union-find/%23684.py)    |    union-find    |
 |    685    |        |    686    |        |    [687](https://github.com/liyu10000/leetcode/blob/master/recursion/%23687.py)    |    recursion    |
-|    688    |        |    689    |        |    690    |        |
+|    688    |        |    689    |        |    [690](https://github.com/liyu10000/leetcode/blob/master/tree/%23690.py)    |    tree    |
 |    691    |        |    [692](https://github.com/liyu10000/leetcode/blob/master/trie/%23692.py)    |    trie    |    693    |        |
 |    694    |        |    695    |        |    696    |        |
 |    697    |        |    [698](https://github.com/liyu10000/leetcode/blob/master/recursion/%23698.py)    |    recursion    |    699    |        |
@@ -251,7 +251,7 @@
 |    730    |        |    731    |        |    732    |        |
 |    733    |        |    734    |        |    735    |        |
 |    736    |        |    737    |        |    738    |        |
-|    739    |        |    740    |        |    741    |        |
+|    739    |        |    [740](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23740.py)    |    dynamic-programming    |    741    |        |
 |    742    |        |    743    |        |    744    |        |
 |    745    |        |    746    |        |    747    |        |
 |    748    |        |    749    |        |    750    |        |
@@ -430,7 +430,7 @@
 |    1267    |        |    1268    |        |    1269    |        |
 |    1270    |        |    1271    |        |    1272    |        |
 |    1273    |        |    1274    |        |    1275    |        |
-|    1276    |        |    1277    |        |    1278    |        |
+|    1276    |        |    [1277](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%231277.py)    |    dynamic-programming    |    1278    |        |
 |    1279    |        |    1280    |        |    1281    |        |
 |    1282    |        |    1283    |        |    1284    |        |
 |    1285    |        |    1286    |        |    1287    |        |
@@ -442,7 +442,7 @@
 |    1303    |        |    1304    |        |    1305    |        |
 |    1306    |        |    1307    |        |    1308    |        |
 |    1309    |        |    1310    |        |    1311    |        |
-|    1312    |        |    1313    |        |    1314    |        |
+|    1312    |        |    1313    |        |    [1314](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%231314.py)    |    dynamic-programming    |
 |    1315    |        |    1316    |        |    1317    |        |
 |    1318    |        |    1319    |        |    1320    |        |
 |    1321    |        |    1322    |        |    1323    |        |
