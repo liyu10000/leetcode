@@ -1,4 +1,4 @@
-## LeetCode Solutions (153/1553)
+## LeetCode Solutions (156/1553)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -31,7 +31,7 @@
 |    [70](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%2370.py)    |    dynamic-programming    |    [71](https://github.com/liyu10000/leetcode/blob/master/stack/%2371.py)    |    stack    |    72    |        |
 |    73    |        |    74    |        |    [75](https://github.com/liyu10000/leetcode/blob/master/sort/%2375.py)    |    sort    |
 |    76    |        |    [77](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2377.py)    |    backtracking    |    [78](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%2378.py)    |    bit-manipulation    |
-|    79    |        |    [80](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2380.py)    |    two-pointers    |    81    |        |
+|    79    |        |    [80](https://github.com/liyu10000/leetcode/blob/master/two-pointers/%2380.py)    |    two-pointers    |    [81](https://github.com/liyu10000/leetcode/blob/master/binary-search/%2381.py)    |    binary-search    |
 |    [82](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2382.py)    |    linked-list    |    [83](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2383.py)    |    linked-list    |    84    |        |
 |    85    |        |    [86](https://github.com/liyu10000/leetcode/blob/master/linked-list/%2386.py)    |    linked-list    |    87    |        |
 |    88    |        |    89    |        |    [90](https://github.com/liyu10000/leetcode/blob/master/backtracking/%2390.py)    |    backtracking    |
@@ -55,7 +55,7 @@
 |    142    |        |    143    |        |    [144](https://github.com/liyu10000/leetcode/blob/master/stack/%23144.py)    |    stack    |
 |    [145](https://github.com/liyu10000/leetcode/blob/master/stack/%23145.py)    |    stack    |    [146](https://github.com/liyu10000/leetcode/blob/master/design/%23146.py)    |    design    |    [147](https://github.com/liyu10000/leetcode/blob/master/sort/%23147.py)    |    sort    |
 |    [148](https://github.com/liyu10000/leetcode/blob/master/sort/%23148.py)    |    sort    |    149    |        |    [150](https://github.com/liyu10000/leetcode/blob/master/stack/%23150.py)    |    stack    |
-|    151    |        |    [152](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23152.py)    |    dynamic-programming    |    153    |        |
+|    151    |        |    [152](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23152.py)    |    dynamic-programming    |    [153](https://github.com/liyu10000/leetcode/blob/master/binary-search/%23153.py)    |    binary-search    |
 |    154    |        |    [155](https://github.com/liyu10000/leetcode/blob/master/stack/%23155.py)    |    stack    |    156    |        |
 |    157    |        |    158    |        |    159    |        |
 |    160    |        |    161    |        |    162    |        |
@@ -97,7 +97,7 @@
 |    268    |        |    269    |        |    270    |        |
 |    271    |        |    272    |        |    273    |        |
 |    274    |        |    275    |        |    276    |        |
-|    277    |        |    278    |        |    279    |        |
+|    277    |        |    [278](https://github.com/liyu10000/leetcode/blob/master/binary-search/%23278.py)    |    binary-search    |    279    |        |
 |    280    |        |    281    |        |    282    |        |
 |    283    |        |    284    |        |    285    |        |
 |    286    |        |    287    |        |    288    |        |
