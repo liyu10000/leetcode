@@ -1,4 +1,4 @@
-## LeetCode Solutions (163/1553)
+## LeetCode Solutions (168/1553)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -104,7 +104,7 @@
 |    289    |        |    290    |        |    291    |        |
 |    292    |        |    293    |        |    294    |        |
 |    295    |        |    296    |        |    297    |        |
-|    298    |        |    [299](https://github.com/liyu10000/leetcode/blob/master/array/%23299.py)    |    array    |    300    |        |
+|    298    |        |    [299](https://github.com/liyu10000/leetcode/blob/master/array/%23299.py)    |    array    |    [300](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23300.py)    |    dynamic-programming    |
 |    301    |        |    302    |        |    [303](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23303.py)    |    dynamic-programming    |
 |    304    |        |    305    |        |    306    |        |
 |    307    |        |    308    |        |    309    |        |
@@ -350,11 +350,11 @@
 |    1027    |        |    1028    |        |    1029    |        |
 |    1030    |        |    1031    |        |    1032    |        |
 |    1033    |        |    1034    |        |    1035    |        |
-|    1036    |        |    1037    |        |    1038    |        |
+|    1036    |        |    1037    |        |    [1038](https://github.com/liyu10000/leetcode/blob/master/tree/%231038.py)    |    tree    |
 |    1039    |        |    1040    |        |    1041    |        |
 |    1042    |        |    1043    |        |    1044    |        |
 |    1045    |        |    1046    |        |    1047    |        |
-|    1048    |        |    1049    |        |    1050    |        |
+|    [1048](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%231048.py)    |    dynamic-programming    |    1049    |        |    1050    |        |
 |    1051    |        |    [1052](https://github.com/liyu10000/leetcode/blob/master/sliding-window/%231052.py)    |    sliding-window    |    1053    |        |
 |    1054    |        |    1055    |        |    1056    |        |
 |    1057    |        |    1058    |        |    1059    |        |
@@ -413,7 +413,7 @@
 |    1216    |        |    1217    |        |    1218    |        |
 |    1219    |        |    1220    |        |    1221    |        |
 |    1222    |        |    1223    |        |    1224    |        |
-|    1225    |        |    1226    |        |    1227    |        |
+|    1225    |        |    1226    |        |    [1227](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%231227.py)    |    dynamic-programming    |
 |    1228    |        |    1229    |        |    1230    |        |
 |    1231    |        |    1232    |        |    1233    |        |
 |    1234    |        |    1235    |        |    1236    |        |
@@ -464,7 +464,7 @@
 |    1369    |        |    1370    |        |    1371    |        |
 |    1372    |        |    1373    |        |    1374    |        |
 |    1375    |        |    1376    |        |    1377    |        |
-|    1378    |        |    1379    |        |    1380    |        |
+|    1378    |        |    [1379](https://github.com/liyu10000/leetcode/blob/master/tree/%231379.py)    |    tree    |    1380    |        |
 |    1381    |        |    1382    |        |    1383    |        |
 |    1384    |        |    1385    |        |    1386    |        |
 |    1387    |        |    1388    |        |    1389    |        |
