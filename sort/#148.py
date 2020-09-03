@@ -37,3 +37,34 @@ class Solution:
         curr.next = left if left else right
         
         return cap_head.next
+
+
+class Solution:
+    def sortList(self, head: ListNode) -> ListNode:
+        if not head or not head.next:
+            return head
+    
+        pre, slow, fast = None, head, head
+        while fast and fast.next:
+            pre, slow, fast = slow, slow.next, fast.next.next
+        pre.next = None
+        
+        # sort two sub lists
+        head = self.sortList(head)
+        slow = self.sortList(slow)
+        
+        # merge lists and return
+        return self.mergeTwoLists(head, slow)
+        
+
+    def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
+        if l1 is None:
+            return l2
+        if l2 is None:
+            return l1
+        if l1.val < l2.val:
+            l1.next = self.mergeTwoLists(l1.next, l2)
+            return l1
+        else:
+            l2.next = self.mergeTwoLists(l1, l2.next)
+            return l2

@@ -1,4 +1,4 @@
-## LeetCode Solutions (173/1553)
+## LeetCode Solutions (177/1553)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -78,7 +78,7 @@
 |    [211](https://github.com/liyu10000/leetcode/blob/master/design/%23211.py)    |    design    |    212    |        |    213    |        |
 |    214    |        |    [215](https://github.com/liyu10000/leetcode/blob/master/heap/%23215.py)    |    heap    |    216    |        |
 |    217    |        |    218    |        |    219    |        |
-|    220    |        |    221    |        |    222    |        |
+|    [220](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23220.py)    |    dynamic-programming    |    221    |        |    222    |        |
 |    223    |        |    224    |        |    [225](https://github.com/liyu10000/leetcode/blob/master/design/%23225.py)    |    design    |
 |    226    |        |    227    |        |    228    |        |
 |    229    |        |    230    |        |    231    |        |
@@ -253,7 +253,7 @@
 |    736    |        |    737    |        |    738    |        |
 |    739    |        |    [740](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23740.py)    |    dynamic-programming    |    741    |        |
 |    742    |        |    743    |        |    744    |        |
-|    745    |        |    746    |        |    747    |        |
+|    745    |        |    [746](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23746.py)    |    dynamic-programming    |    747    |        |
 |    748    |        |    749    |        |    750    |        |
 |    751    |        |    752    |        |    753    |        |
 |    754    |        |    755    |        |    756    |        |
@@ -348,7 +348,7 @@
 |    1021    |        |    [1022](https://github.com/liyu10000/leetcode/blob/master/tree/%231022.py)    |    tree    |    1023    |        |
 |    1024    |        |    1025    |        |    1026    |        |
 |    1027    |        |    1028    |        |    1029    |        |
-|    1030    |        |    1031    |        |    1032    |        |
+|    [1030](https://github.com/liyu10000/leetcode/blob/master/sort/%231030.py)    |    sort    |    1031    |        |    1032    |        |
 |    1033    |        |    1034    |        |    1035    |        |
 |    1036    |        |    1037    |        |    [1038](https://github.com/liyu10000/leetcode/blob/master/tree/%231038.py)    |    tree    |
 |    1039    |        |    1040    |        |    1041    |        |
@@ -494,7 +494,7 @@
 |    1459    |        |    1460    |        |    1461    |        |
 |    1462    |        |    1463    |        |    1464    |        |
 |    1465    |        |    1466    |        |    1467    |        |
-|    1468    |        |    1469    |        |    1470    |        |
+|    1468    |        |    1469    |        |    [1470](https://github.com/liyu10000/leetcode/blob/master/sort/%231470.py)    |    sort    |
 |    1471    |        |    1472    |        |    1473    |        |
 |    1474    |        |    1475    |        |    1476    |        |
 |    1477    |        |    1478    |        |    1479    |        |

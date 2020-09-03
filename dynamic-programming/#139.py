@@ -1,3 +1,4 @@
+# dynamic programming
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         wordDict = set(wordDict)
@@ -8,3 +9,14 @@ class Solution:
                     status[i] = True
                     break
         return status[0]
+
+# back tracking, but TLE
+class Solution:
+    def wordBreak(self, s: str, wordDict: List[str]) -> bool:
+        for w in wordDict:
+            if s == w:
+                return True
+            if s.startswith(w):
+                if self.wordBreak(s[len(w):], wordDict):
+                    return True
+        return False

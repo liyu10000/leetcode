@@ -34,3 +34,23 @@ class Solution:
                     generate(i+1, curr+c)
         generate(0, '')
         return res
+
+# third trial: backtracking
+class Solution:
+    def letterCombinations(self, digits: str) -> List[str]:
+        self.mapping = {'2':'abc','3':'def','4':'ghi','5':'jkl',
+                        '6':'mno','7':'pqrs','8':'tuv','9':'wxyz'}
+        self.res = []
+        self.backtrack(digits, 0, len(digits), [])
+        return self.res
+        
+    def backtrack(self, digits, i, n, curr):
+        if i == n:
+            self.res += curr
+            return
+        s = self.mapping[digits[i]]
+        if not curr:
+            self.backtrack(digits, i+1, n, list(s))
+        else:
+            for c in s:
+                self.backtrack(digits, i+1, n, [item+c for item in curr])
