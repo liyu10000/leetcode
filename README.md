@@ -1,4 +1,4 @@
-## LeetCode Solutions (177/1553)
+## LeetCode Solutions (180/1553)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -199,7 +199,7 @@
 |    574    |        |    575    |        |    576    |        |
 |    577    |        |    578    |        |    579    |        |
 |    580    |        |    581    |        |    582    |        |
-|    583    |        |    584    |        |    585    |        |
+|    [583](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23583.py)    |    dynamic-programming    |    584    |        |    585    |        |
 |    586    |        |    587    |        |    588    |        |
 |    589    |        |    590    |        |    591    |        |
 |    592    |        |    593    |        |    594    |        |
@@ -352,7 +352,7 @@
 |    1033    |        |    1034    |        |    1035    |        |
 |    1036    |        |    1037    |        |    [1038](https://github.com/liyu10000/leetcode/blob/master/tree/%231038.py)    |    tree    |
 |    1039    |        |    1040    |        |    1041    |        |
-|    1042    |        |    1043    |        |    1044    |        |
+|    1042    |        |    [1043](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%231043.py)    |    dynamic-programming    |    1044    |        |
 |    1045    |        |    1046    |        |    1047    |        |
 |    [1048](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%231048.py)    |    dynamic-programming    |    1049    |        |    1050    |        |
 |    1051    |        |    [1052](https://github.com/liyu10000/leetcode/blob/master/sliding-window/%231052.py)    |    sliding-window    |    1053    |        |
@@ -513,7 +513,7 @@
 |    1516    |        |    1517    |        |    1518    |        |
 |    1519    |        |    1520    |        |    1521    |        |
 |    1522    |        |    1523    |        |    1524    |        |
-|    1525    |        |    1526    |        |    1527    |        |
+|    [1525](https://github.com/liyu10000/leetcode/blob/master/string/%231525.py)    |    string    |    1526    |        |    1527    |        |
 |    1528    |        |    1529    |        |    1530    |        |
 |    1531    |        |    1532    |        |    1533    |        |
 |    1534    |        |    1535    |        |    1536    |        |
