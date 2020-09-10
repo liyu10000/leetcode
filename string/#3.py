@@ -28,4 +28,19 @@ class Solution:
                 sub = sub[sub.index(c)+1:] + c
         m = max(m, len(sub))
         return m
-            
+
+# third trial: using a set
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        m = 0
+        visited = set()
+        i, j = 0, 0
+        while i < len(s) and j < len(s):
+            if not s[j] in visited:
+                visited.add(s[j])
+                j += 1
+                m = max(m, j - i)
+            else:
+                visited.remove(s[i])
+                i += 1
+        return m

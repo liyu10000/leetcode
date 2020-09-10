@@ -74,3 +74,31 @@ class Solution:
                     j += 1
                     k -= 1
         return res
+
+# brute force with twoSum, TLE
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        if len(nums) < 3:
+            return []
+        res = set()
+        for i in range(len(nums)):
+            twoIdxx = self.twoSum(nums, i, -nums[i])
+            for twoIdx in twoIdxx:
+                if twoIdx[0] > i and twoIdx[1] > i:
+                    triplet = [nums[i], nums[twoIdx[0]], nums[twoIdx[1]]]
+                    triplet.sort()
+                    res.add(tuple(triplet))
+        return res
+        
+    def twoSum(self, nums: List[int], skip: int, target: int) -> List[int]:
+        twoIdxx = []
+        diffmap = {}
+        for i,n in enumerate(nums):
+            if i == skip:
+                continue
+            if n in diffmap:
+                twoIdxx.append([diffmap[n], i])
+                del diffmap[n]
+            else:
+                diffmap[target - n] = i
+        return twoIdxx

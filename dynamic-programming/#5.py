@@ -20,3 +20,24 @@ class Solution:
                 res = s[left+1:right]
             i += 1
         return res
+
+# dp
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        n = len(s)
+        dp = [[0 for _ in range(n)] for _ in range(n)]
+        m = 0
+        sub = ""
+        for i in range(n-1, -1, -1):
+            for j in range(i, n):
+                if j == i:
+                    dp[i][j] = 1
+                elif j == i + 1:
+                    dp[i][j] = 1 if s[i] == s[j] else 0
+                else:
+                    dp[i][j] = 1 if s[i] == s[j] and dp[i+1][j-1] else 0
+                if dp[i][j] and j - i + 1 > m:
+                    m = j - i + 1
+                    sub = s[i:j+1]
+        # print(dp)
+        return sub
