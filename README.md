@@ -1,4 +1,4 @@
-## LeetCode Solutions (180/1553)
+## LeetCode Solutions (186/1553)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -297,7 +297,7 @@
 |    868    |        |    869    |        |    870    |        |
 |    871    |        |    872    |        |    873    |        |
 |    874    |        |    875    |        |    876    |        |
-|    877    |        |    878    |        |    879    |        |
+|    [877](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23877.py)    |    dynamic-programming    |    878    |        |    879    |        |
 |    880    |        |    881    |        |    882    |        |
 |    883    |        |    884    |        |    885    |        |
 |    886    |        |    887    |        |    888    |        |
@@ -444,7 +444,7 @@
 |    1309    |        |    1310    |        |    1311    |        |
 |    1312    |        |    1313    |        |    [1314](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%231314.py)    |    dynamic-programming    |
 |    1315    |        |    1316    |        |    1317    |        |
-|    1318    |        |    1319    |        |    1320    |        |
+|    [1318](https://github.com/liyu10000/leetcode/blob/master/bit-manipulation/%231318.py)    |    bit-manipulation    |    1319    |        |    1320    |        |
 |    1321    |        |    1322    |        |    1323    |        |
 |    1324    |        |    1325    |        |    1326    |        |
 |    1327    |        |    1328    |        |    1329    |        |
@@ -476,13 +476,13 @@
 |    1405    |        |    1406    |        |    1407    |        |
 |    1408    |        |    1409    |        |    1410    |        |
 |    1411    |        |    1412    |        |    1413    |        |
-|    1414    |        |    1415    |        |    1416    |        |
+|    1414    |        |    [1415](https://github.com/liyu10000/leetcode/blob/master/backtracking/%231415.py)    |    backtracking    |    1416    |        |
 |    1417    |        |    1418    |        |    1419    |        |
 |    1420    |        |    1421    |        |    1422    |        |
-|    1423    |        |    1424    |        |    1425    |        |
+|    [1423](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%231423.py)    |    dynamic-programming    |    1424    |        |    1425    |        |
 |    1426    |        |    1427    |        |    1428    |        |
 |    1429    |        |    1430    |        |    1431    |        |
-|    1432    |        |    1433    |        |    1434    |        |
+|    1432    |        |    [1433](https://github.com/liyu10000/leetcode/blob/master/string/%231433.py)    |    string    |    1434    |        |
 |    1435    |        |    1436    |        |    1437    |        |
 |    1438    |        |    1439    |        |    1440    |        |
 |    1441    |        |    1442    |        |    1443    |        |
