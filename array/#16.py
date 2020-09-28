@@ -24,4 +24,24 @@ class Solution:
                     return res
                 
         return res
-                        
+
+
+class Solution:
+    def threeSumClosest(self, nums: List[int], target: int) -> int:
+        nums.sort()
+        diff = float('inf')
+        n = len(nums)
+        for i in range(n-2):
+            if diff == 0:
+                return target
+            left = i + 1
+            right = n - 1
+            while left < right:
+                tmpsum = nums[i] + nums[left] + nums[right]
+                if abs(target - tmpsum) < abs(diff):
+                    diff = target - tmpsum
+                if tmpsum > target:
+                    right -= 1
+                else:
+                    left += 1
+        return target - diff

@@ -23,3 +23,17 @@ class Solution:
             max_step = max(max_step, i + nums[i])
 
         return max_step >= n - 1
+
+# third try
+class Solution:
+    def canJump(self, nums: List[int]) -> bool:
+        n = len(nums)
+        flag = True
+        lastTrue = n - 1
+        for i in range(n-2, -1, -1):
+            if (flag and nums[i] >= 1) or (not flag and nums[i] >= lastTrue-i):
+                flag = True
+                lastTrue = i
+            else:
+                flag = False
+        return flag
