@@ -1,4 +1,4 @@
-## LeetCode Solutions (187/1553)
+## LeetCode Solutions (198/1553)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -42,7 +42,7 @@
 |    [103](https://github.com/liyu10000/leetcode/blob/master/breadth-first-search/%23103.py)    |    breadth-first-search    |    [104](https://github.com/liyu10000/leetcode/blob/master/depth-first-search/%23104.py)    |    depth-first-search    |    [105](https://github.com/liyu10000/leetcode/blob/master/depth-first-search/%23105.py)    |    depth-first-search    |
 |    [106](https://github.com/liyu10000/leetcode/blob/master/depth-first-search/%23106.py)    |    depth-first-search    |    [107](https://github.com/liyu10000/leetcode/blob/master/breadth-first-search/%23107.py)    |    breadth-first-search    |    [108](https://github.com/liyu10000/leetcode/blob/master/depth-first-search/%23108.py)    |    depth-first-search    |
 |    109    |        |    110    |        |    [111](https://github.com/liyu10000/leetcode/blob/master/breadth-first-search/%23111.py)    |    breadth-first-search    |
-|    112    |        |    113    |        |    114    |        |
+|    [112](https://github.com/liyu10000/leetcode/blob/master/tree/%23112.py)    |    tree    |    [113](https://github.com/liyu10000/leetcode/blob/master/tree/%23113.py)    |    tree    |    114    |        |
 |    115    |        |    116    |        |    117    |        |
 |    118    |        |    119    |        |    [120](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23120.py)    |    dynamic-programming    |
 |    [121](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23121.py)    |    dynamic-programming    |    [122](https://github.com/liyu10000/leetcode/blob/master/greedy/%23122.py)    |    greedy    |    123    |        |
@@ -80,7 +80,7 @@
 |    217    |        |    218    |        |    219    |        |
 |    [220](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23220.py)    |    dynamic-programming    |    221    |        |    222    |        |
 |    223    |        |    224    |        |    [225](https://github.com/liyu10000/leetcode/blob/master/design/%23225.py)    |    design    |
-|    226    |        |    227    |        |    228    |        |
+|    [226](https://github.com/liyu10000/leetcode/blob/master/tree/%23226.py)    |    tree    |    227    |        |    228    |        |
 |    229    |        |    230    |        |    231    |        |
 |    232    |        |    233    |        |    234    |        |
 |    235    |        |    236    |        |    237    |        |
@@ -122,7 +122,7 @@
 |    343    |        |    344    |        |    345    |        |
 |    346    |        |    [347](https://github.com/liyu10000/leetcode/blob/master/heap/%23347.py)    |    heap    |    348    |        |
 |    349    |        |    350    |        |    351    |        |
-|    352    |        |    353    |        |    354    |        |
+|    352    |        |    353    |        |    [354](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%23354.py)    |    dynamic-programming    |
 |    [355](https://github.com/liyu10000/leetcode/blob/master/heap/%23355.py)    |    heap    |    356    |        |    357    |        |
 |    358    |        |    359    |        |    360    |        |
 |    361    |        |    362    |        |    363    |        |
@@ -150,7 +150,7 @@
 |    427    |        |    428    |        |    429    |        |
 |    430    |        |    431    |        |    432    |        |
 |    433    |        |    434    |        |    435    |        |
-|    436    |        |    437    |        |    438    |        |
+|    436    |        |    [437](https://github.com/liyu10000/leetcode/blob/master/tree/%23437.py)    |    tree    |    438    |        |
 |    439    |        |    440    |        |    441    |        |
 |    442    |        |    443    |        |    444    |        |
 |    445    |        |    446    |        |    447    |        |
@@ -191,7 +191,7 @@
 |    550    |        |    551    |        |    552    |        |
 |    553    |        |    554    |        |    555    |        |
 |    556    |        |    557    |        |    558    |        |
-|    559    |        |    560    |        |    561    |        |
+|    559    |        |    [560](https://github.com/liyu10000/leetcode/blob/master/array/%23560.py)    |    array    |    561    |        |
 |    562    |        |    563    |        |    564    |        |
 |    565    |        |    566    |        |    [567](https://github.com/liyu10000/leetcode/blob/master/sliding-window/%23567.py)    |    sliding-window    |
 |    568    |        |    569    |        |    570    |        |
@@ -228,7 +228,7 @@
 |    661    |        |    662    |        |    663    |        |
 |    664    |        |    665    |        |    666    |        |
 |    667    |        |    668    |        |    669    |        |
-|    670    |        |    671    |        |    672    |        |
+|    [670](https://github.com/liyu10000/leetcode/blob/master/math/%23670.py)    |    math    |    671    |        |    672    |        |
 |    673    |        |    674    |        |    675    |        |
 |    [676](https://github.com/liyu10000/leetcode/blob/master/trie/%23676.py)    |    trie    |    [677](https://github.com/liyu10000/leetcode/blob/master/trie/%23677.py)    |    trie    |    678    |        |
 |    679    |        |    680    |        |    681    |        |
@@ -335,7 +335,7 @@
 |    982    |        |    983    |        |    984    |        |
 |    985    |        |    986    |        |    987    |        |
 |    988    |        |    989    |        |    990    |        |
-|    991    |        |    992    |        |    993    |        |
+|    991    |        |    992    |        |    [993](https://github.com/liyu10000/leetcode/blob/master/breadth-first-search/%23993.py)    |    breadth-first-search    |
 |    994    |        |    995    |        |    996    |        |
 |    997    |        |    998    |        |    999    |        |
 |    1000    |        |    1001    |        |    1002    |        |
@@ -392,7 +392,7 @@
 |    1153    |        |    1154    |        |    1155    |        |
 |    1156    |        |    1157    |        |    1158    |        |
 |    1159    |        |    1160    |        |    1161    |        |
-|    1162    |        |    1163    |        |    1164    |        |
+|    [1162](https://github.com/liyu10000/leetcode/blob/master/breadth-first-search/%231162.py)    |    breadth-first-search    |    1163    |        |    1164    |        |
 |    1165    |        |    1166    |        |    1167    |        |
 |    1168    |        |    1169    |        |    1170    |        |
 |    1171    |        |    1172    |        |    1173    |        |
@@ -450,7 +450,7 @@
 |    1327    |        |    1328    |        |    1329    |        |
 |    1330    |        |    1331    |        |    1332    |        |
 |    1333    |        |    1334    |        |    1335    |        |
-|    1336    |        |    1337    |        |    1338    |        |
+|    1336    |        |    1337    |        |    [1338](https://github.com/liyu10000/leetcode/blob/master/array/%231338.py)    |    array    |
 |    1339    |        |    1340    |        |    1341    |        |
 |    1342    |        |    1343    |        |    1344    |        |
 |    1345    |        |    1346    |        |    1347    |        |
