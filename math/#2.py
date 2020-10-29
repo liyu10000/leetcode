@@ -33,3 +33,26 @@ class Solution:
             curr.next = ListNode(carry)
             
         return head
+
+
+class Solution:
+    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        l, cur = None, None
+        carry = 0
+        while l1 or l2:
+            if l1:
+                carry += l1.val
+                l1 = l1.next
+            if l2:
+                carry += l2.val
+                l2 = l2.next
+            val, carry = carry % 10, carry // 10
+            if l is None:
+                l = ListNode(val)
+                cur = l
+            else:
+                cur.next = ListNode(val)
+                cur = cur.next
+        if carry:
+            cur.next = ListNode(carry)
+        return l

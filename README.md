@@ -1,4 +1,4 @@
-## LeetCode Solutions (198/1553)
+## LeetCode Solutions (201/1553)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -381,7 +381,7 @@
 |    1120    |        |    1121    |        |    1122    |        |
 |    1123    |        |    1124    |        |    1125    |        |
 |    1126    |        |    1127    |        |    1128    |        |
-|    1129    |        |    1130    |        |    1131    |        |
+|    1129    |        |    [1130](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%231130.py)    |    dynamic-programming    |    1131    |        |
 |    1132    |        |    1133    |        |    1134    |        |
 |    1135    |        |    1136    |        |    1137    |        |
 |    1138    |        |    1139    |        |    1140    |        |
@@ -455,7 +455,7 @@
 |    1342    |        |    1343    |        |    1344    |        |
 |    1345    |        |    1346    |        |    1347    |        |
 |    1348    |        |    1349    |        |    1350    |        |
-|    1351    |        |    1352    |        |    1353    |        |
+|    1351    |        |    [1352](https://github.com/liyu10000/leetcode/blob/master/design/%231352.py)    |    design    |    1353    |        |
 |    1354    |        |    1355    |        |    1356    |        |
 |    1357    |        |    1358    |        |    1359    |        |
 |    1360    |        |    1361    |        |    1362    |        |
@@ -473,7 +473,7 @@
 |    1396    |        |    1397    |        |    1398    |        |
 |    1399    |        |    1400    |        |    1401    |        |
 |    1402    |        |    1403    |        |    1404    |        |
-|    1405    |        |    1406    |        |    1407    |        |
+|    1405    |        |    [1406](https://github.com/liyu10000/leetcode/blob/master/dynamic-programming/%231406.py)    |    dynamic-programming    |    1407    |        |
 |    1408    |        |    1409    |        |    1410    |        |
 |    1411    |        |    1412    |        |    1413    |        |
 |    1414    |        |    [1415](https://github.com/liyu10000/leetcode/blob/master/backtracking/%231415.py)    |    backtracking    |    1416    |        |
