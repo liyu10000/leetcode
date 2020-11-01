@@ -1,4 +1,4 @@
-## LeetCode Solutions (201/1553)
+## LeetCode Solutions (205/1553)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -170,9 +170,9 @@
 |    487    |        |    488    |        |    489    |        |
 |    490    |        |    491    |        |    492    |        |
 |    493    |        |    494    |        |    495    |        |
-|    496    |        |    497    |        |    498    |        |
+|    [496](https://github.com/liyu10000/leetcode/blob/master/stack/%23496.py)    |    stack    |    497    |        |    498    |        |
 |    499    |        |    500    |        |    501    |        |
-|    502    |        |    503    |        |    504    |        |
+|    502    |        |    [503](https://github.com/liyu10000/leetcode/blob/master/stack/%23503.py)    |    stack    |    504    |        |
 |    505    |        |    506    |        |    507    |        |
 |    508    |        |    509    |        |    510    |        |
 |    511    |        |    512    |        |    513    |        |
@@ -224,7 +224,7 @@
 |    649    |        |    650    |        |    651    |        |
 |    652    |        |    653    |        |    654    |        |
 |    655    |        |    656    |        |    657    |        |
-|    658    |        |    659    |        |    660    |        |
+|    [658](https://github.com/liyu10000/leetcode/blob/master/binary-search/%23658.py)    |    binary-search    |    659    |        |    660    |        |
 |    661    |        |    662    |        |    663    |        |
 |    664    |        |    665    |        |    666    |        |
 |    667    |        |    668    |        |    669    |        |
@@ -307,7 +307,7 @@
 |    898    |        |    899    |        |    900    |        |
 |    901    |        |    902    |        |    903    |        |
 |    904    |        |    905    |        |    906    |        |
-|    907    |        |    908    |        |    909    |        |
+|    907    |        |    908    |        |    [909](https://github.com/liyu10000/leetcode/blob/master/breadth-first-search/%23909.py)    |    breadth-first-search    |
 |    910    |        |    911    |        |    912    |        |
 |    913    |        |    914    |        |    915    |        |
 |    916    |        |    917    |        |    918    |        |
