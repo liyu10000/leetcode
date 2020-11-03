@@ -1,4 +1,4 @@
-## LeetCode Solutions (205/1553)
+## LeetCode Solutions (209/1553)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -72,7 +72,7 @@
 |    193    |        |    194    |        |    195    |        |
 |    196    |        |    197    |        |    198    |        |
 |    199    |        |    [200](https://github.com/liyu10000/leetcode/blob/master/union-find/%23200.py)    |    union-find    |    201    |        |
-|    202    |        |    203    |        |    204    |        |
+|    [202](https://github.com/liyu10000/leetcode/blob/master/math/%23202.py)    |    math    |    203    |        |    204    |        |
 |    205    |        |    [206](https://github.com/liyu10000/leetcode/blob/master/linked-list/%23206.py)    |    linked-list    |    [207](https://github.com/liyu10000/leetcode/blob/master/graph/%23207.py)    |    graph    |
 |    [208](https://github.com/liyu10000/leetcode/blob/master/design/%23208.py)    |    design    |    209    |        |    [210](https://github.com/liyu10000/leetcode/blob/master/graph/%23210.py)    |    graph    |
 |    [211](https://github.com/liyu10000/leetcode/blob/master/design/%23211.py)    |    design    |    212    |        |    213    |        |
@@ -135,7 +135,7 @@
 |    382    |        |    [383](https://github.com/liyu10000/leetcode/blob/master/string/%23383.py)    |    string    |    384    |        |
 |    385    |        |    386    |        |    [387](https://github.com/liyu10000/leetcode/blob/master/string/%23387.py)    |    string    |
 |    388    |        |    389    |        |    390    |        |
-|    391    |        |    [392](https://github.com/liyu10000/leetcode/blob/master/greedy/%23392.py)    |    greedy    |    393    |        |
+|    [391](https://github.com/liyu10000/leetcode/blob/master/line-sweep/%23391.py)    |    line-sweep    |    [392](https://github.com/liyu10000/leetcode/blob/master/greedy/%23392.py)    |    greedy    |    393    |        |
 |    394    |        |    395    |        |    396    |        |
 |    397    |        |    398    |        |    [399](https://github.com/liyu10000/leetcode/blob/master/union-find/%23399.py)    |    union-find    |
 |    400    |        |    401    |        |    402    |        |
@@ -144,7 +144,7 @@
 |    409    |        |    410    |        |    411    |        |
 |    412    |        |    413    |        |    414    |        |
 |    415    |        |    416    |        |    [417](https://github.com/liyu10000/leetcode/blob/master/depth-first-search/%23417.py)    |    depth-first-search    |
-|    418    |        |    419    |        |    420    |        |
+|    418    |        |    [419](https://github.com/liyu10000/leetcode/blob/master/depth-first-search/%23419.py)    |    depth-first-search    |    420    |        |
 |    [421](https://github.com/liyu10000/leetcode/blob/master/trie/%23421.py)    |    trie    |    422    |        |    423    |        |
 |    [424](https://github.com/liyu10000/leetcode/blob/master/sliding-window/%23424.py)    |    sliding-window    |    425    |        |    426    |        |
 |    427    |        |    428    |        |    429    |        |
@@ -369,7 +369,7 @@
 |    1084    |        |    1085    |        |    1086    |        |
 |    1087    |        |    1088    |        |    1089    |        |
 |    1090    |        |    1091    |        |    1092    |        |
-|    1093    |        |    1094    |        |    1095    |        |
+|    1093    |        |    1094    |        |    [1095](https://github.com/liyu10000/leetcode/blob/master/binary-search/%231095.py)    |    binary-search    |
 |    1096    |        |    1097    |        |    1098    |        |
 |    1099    |        |    1100    |        |    1101    |        |
 |    1102    |        |    1103    |        |    1104    |        |
