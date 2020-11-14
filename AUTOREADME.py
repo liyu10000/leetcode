@@ -54,7 +54,7 @@ def write(content):
 
 
 if __name__ == '__main__':
-    N = 1553
+    N = 1800
     W = 3  # number of columns in the form
     n, form = generate_form(N, W)
     text = generate_text(n, N)
