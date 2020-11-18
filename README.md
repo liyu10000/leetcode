@@ -1,4 +1,4 @@
-## LeetCode Solutions (222/1800)
+## LeetCode Solutions (227/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -48,7 +48,7 @@
 |    [121](dynamic-programming/%23121.py)    |    dynamic-programming    |    [122](greedy/%23122.py)    |    greedy    |    123    |        |
 |    124    |        |    125    |        |    126    |        |
 |    [127](breadth-first-search/%23127.py)    |    breadth-first-search    |    128    |        |    129    |        |
-|    [130](union-find/%23130.py)    |    union-find    |    131    |        |    132    |        |
+|    [130](union-find/%23130.py)    |    union-find    |    [131](backtracking/%23131.py)    |    backtracking    |    132    |        |
 |    [133](graph/%23133.py)    |    graph    |    [134](greedy/%23134.py)    |    greedy    |    135    |        |
 |    [136](hash-table/%23136.py)    |    hash-table    |    [137](bit-manipulation/%23137.py)    |    bit-manipulation    |    [138](hash-table/%23138.py)    |    hash-table    |
 |    [139](dynamic-programming/%23139.py)    |    dynamic-programming    |    140    |        |    [141](linked-list/%23141.py)    |    linked-list    |
@@ -68,7 +68,7 @@
 |    181    |        |    182    |        |    183    |        |
 |    184    |        |    185    |        |    186    |        |
 |    [187](bit-manipulation/%23187.py)    |    bit-manipulation    |    188    |        |    [189](array/%23189.py)    |    array    |
-|    [190](bit-manipulation/%23190.cpp)    |    bit-manipulation    |    191    |        |    192    |        |
+|    [190](bit-manipulation/%23190.cpp)    |    bit-manipulation    |    [191](bit-manipulation/%23191.py)    |    bit-manipulation    |    192    |        |
 |    193    |        |    194    |        |    195    |        |
 |    196    |        |    197    |        |    198    |        |
 |    199    |        |    [200](union-find/%23200.py)    |    union-find    |    201    |        |
@@ -556,8 +556,8 @@
 |    1645    |        |    1646    |        |    1647    |        |
 |    1648    |        |    1649    |        |    1650    |        |
 |    1651    |        |    [1652](array/%231652.py)    |    array    |    [1653](greedy/%231653.py)    |    greedy    |
-|    [1654](breadth-first-search/%231654.py)    |    breadth-first-search    |    1655    |        |    1656    |        |
-|    1657    |        |    1658    |        |    1659    |        |
+|    [1654](breadth-first-search/%231654.py)    |    breadth-first-search    |    1655    |        |    [1656](design/%231656.py)    |    design    |
+|    [1657](greedy/%231657.py)    |    greedy    |    1658    |        |    1659    |        |
 |    1660    |        |    1661    |        |    1662    |        |
 |    1663    |        |    1664    |        |    1665    |        |
 |    1666    |        |    1667    |        |    1668    |        |
