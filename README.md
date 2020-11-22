@@ -1,4 +1,4 @@
-## LeetCode Solutions (227/1800)
+## LeetCode Solutions (235/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -70,7 +70,7 @@
 |    [187](bit-manipulation/%23187.py)    |    bit-manipulation    |    188    |        |    [189](array/%23189.py)    |    array    |
 |    [190](bit-manipulation/%23190.cpp)    |    bit-manipulation    |    [191](bit-manipulation/%23191.py)    |    bit-manipulation    |    192    |        |
 |    193    |        |    194    |        |    195    |        |
-|    196    |        |    197    |        |    198    |        |
+|    196    |        |    197    |        |    [198](dynamic-programming/%23198.py)    |    dynamic-programming    |
 |    199    |        |    [200](union-find/%23200.py)    |    union-find    |    201    |        |
 |    [202](math/%23202.py)    |    math    |    203    |        |    [204](math/%23204.py)    |    math    |
 |    205    |        |    [206](linked-list/%23206.py)    |    linked-list    |    [207](graph/%23207.py)    |    graph    |
@@ -84,7 +84,7 @@
 |    229    |        |    230    |        |    231    |        |
 |    232    |        |    233    |        |    234    |        |
 |    235    |        |    236    |        |    237    |        |
-|    238    |        |    239    |        |    [240](divide-and-conquer/%23240.py)    |    divide-and-conquer    |
+|    [238](array/%23238.py)    |    array    |    239    |        |    [240](divide-and-conquer/%23240.py)    |    divide-and-conquer    |
 |    [241](divide-and-conquer/%23241.py)    |    divide-and-conquer    |    242    |        |    243    |        |
 |    244    |        |    245    |        |    246    |        |
 |    247    |        |    248    |        |    249    |        |
@@ -214,7 +214,7 @@
 |    619    |        |    620    |        |    [621](greedy/%23621.py)    |    greedy    |
 |    622    |        |    623    |        |    624    |        |
 |    625    |        |    626    |        |    627    |        |
-|    628    |        |    629    |        |    630    |        |
+|    [628](array/%23628.py)    |    array    |    629    |        |    630    |        |
 |    631    |        |    632    |        |    633    |        |
 |    634    |        |    635    |        |    636    |        |
 |    637    |        |    638    |        |    639    |        |
@@ -526,8 +526,8 @@
 |    1555    |        |    1556    |        |    1557    |        |
 |    1558    |        |    1559    |        |    1560    |        |
 |    1561    |        |    1562    |        |    1563    |        |
-|    1564    |        |    1565    |        |    1566    |        |
-|    1567    |        |    1568    |        |    1569    |        |
+|    1564    |        |    1565    |        |    [1566](array/%231566.py)    |    array    |
+|    [1567](greedy/%231567.py)    |    greedy    |    1568    |        |    1569    |        |
 |    1570    |        |    1571    |        |    1572    |        |
 |    1573    |        |    1574    |        |    1575    |        |
 |    1576    |        |    1577    |        |    [1578](greedy/%231578.py)    |    greedy    |
@@ -535,8 +535,8 @@
 |    [1582](array/%231582.py)    |    array    |    1583    |        |    1584    |        |
 |    1585    |        |    1586    |        |    1587    |        |
 |    1588    |        |    1589    |        |    1590    |        |
-|    1591    |        |    1592    |        |    1593    |        |
-|    1594    |        |    1595    |        |    1596    |        |
+|    1591    |        |    [1592](string/%231592.py)    |    string    |    [1593](backtracking/%231593.py)    |    backtracking    |
+|    [1594](greedy/%231594.py)    |    greedy    |    1595    |        |    1596    |        |
 |    1597    |        |    1598    |        |    1599    |        |
 |    1600    |        |    1601    |        |    1602    |        |
 |    1603    |        |    1604    |        |    1605    |        |

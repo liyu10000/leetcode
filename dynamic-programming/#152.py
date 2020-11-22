@@ -28,3 +28,18 @@ class Solution:
                 maxPro = max(maxPro, curPro)
                 
         return maxPro
+
+
+# dp, can be simplified with O(1) space
+class Solution:
+    def maxProduct(self, nums: List[int]) -> int:
+        n = len(nums)
+        minp = [0] * n
+        maxp = [0] * n
+        minp[0] = maxp[0] = nums[0]
+        res = maxp[0]
+        for i in range(1, n):
+            minp[i] = min(nums[i], min(minp[i-1]*nums[i], maxp[i-1]*nums[i]))
+            maxp[i] = max(nums[i], max(minp[i-1]*nums[i], maxp[i-1]*nums[i]))
+            res = max(maxp[i], res)
+        return res
