@@ -1,4 +1,4 @@
-## LeetCode Solutions (235/1800)
+## LeetCode Solutions (257/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -26,13 +26,13 @@
 |    [55](greedy/%2355.py)    |    greedy    |    [56](sort/%2356.py)    |    sort    |    [57](sort/%2357.py)    |    sort    |
 |    [58](string/%2358.py)    |    string    |    [59](array/%2359.py)    |    array    |    [60](math/%2360.py)    |    math    |
 |    [61](two-pointers/%2361.py)    |    two-pointers    |    [62](dynamic-programming/%2362.py)    |    dynamic-programming    |    [63](dynamic-programming/%2363.py)    |    dynamic-programming    |
-|    [64](dynamic-programming/%2364.py)    |    dynamic-programming    |    65    |        |    [66](array/%2366.py)    |    array    |
+|    [64](dynamic-programming/%2364.py)    |    dynamic-programming    |    [65](math/%2365.py)    |    math    |    [66](array/%2366.py)    |    array    |
 |    [67](math/%2367.py)    |    math    |    68    |        |    [69](math/%2369.py)    |    math    |
 |    [70](dynamic-programming/%2370.py)    |    dynamic-programming    |    [71](stack/%2371.py)    |    stack    |    72    |        |
 |    [73](array/%2373.py)    |    array    |    [74](binary-search/%2374.py)    |    binary-search    |    [75](sort/%2375.py)    |    sort    |
 |    76    |        |    [77](backtracking/%2377.py)    |    backtracking    |    [78](bit-manipulation/%2378.py)    |    bit-manipulation    |
-|    79    |        |    [80](two-pointers/%2380.py)    |    two-pointers    |    [81](binary-search/%2381.py)    |    binary-search    |
-|    [82](linked-list/%2382.py)    |    linked-list    |    [83](linked-list/%2383.py)    |    linked-list    |    84    |        |
+|    [79](backtracking/%2379.py)    |    backtracking    |    [80](two-pointers/%2380.py)    |    two-pointers    |    [81](binary-search/%2381.py)    |    binary-search    |
+|    [82](linked-list/%2382.py)    |    linked-list    |    [83](linked-list/%2383.py)    |    linked-list    |    [84](array/%2384.py)    |    array    |
 |    85    |        |    [86](linked-list/%2386.py)    |    linked-list    |    87    |        |
 |    88    |        |    89    |        |    [90](backtracking/%2390.py)    |    backtracking    |
 |    [91](dynamic-programming/%2391.py)    |    dynamic-programming    |    92    |        |    93    |        |
@@ -54,7 +54,7 @@
 |    [139](dynamic-programming/%23139.py)    |    dynamic-programming    |    140    |        |    [141](linked-list/%23141.py)    |    linked-list    |
 |    142    |        |    143    |        |    [144](stack/%23144.py)    |    stack    |
 |    [145](stack/%23145.py)    |    stack    |    [146](design/%23146.py)    |    design    |    [147](sort/%23147.py)    |    sort    |
-|    [148](sort/%23148.py)    |    sort    |    149    |        |    [150](stack/%23150.py)    |    stack    |
+|    [148](sort/%23148.py)    |    sort    |    [149](math/%23149.py)    |    math    |    [150](stack/%23150.py)    |    stack    |
 |    151    |        |    [152](dynamic-programming/%23152.py)    |    dynamic-programming    |    [153](binary-search/%23153.py)    |    binary-search    |
 |    154    |        |    [155](stack/%23155.py)    |    stack    |    156    |        |
 |    157    |        |    158    |        |    159    |        |
@@ -62,7 +62,7 @@
 |    163    |        |    164    |        |    [165](math/%23165.py)    |    math    |
 |    [166](hash-table/%23166.py)    |    hash-table    |    167    |        |    [168](math/%23168.py)    |    math    |
 |    [169](bit-manipulation/%23169.py)    |    bit-manipulation    |    170    |        |    [171](math/%23171.py)    |    math    |
-|    172    |        |    [173](design/%23173.py)    |    design    |    174    |        |
+|    [172](math/%23172.py)    |    math    |    [173](design/%23173.py)    |    design    |    174    |        |
 |    175    |        |    176    |        |    177    |        |
 |    178    |        |    179    |        |    180    |        |
 |    181    |        |    182    |        |    183    |        |
@@ -71,23 +71,23 @@
 |    [190](bit-manipulation/%23190.cpp)    |    bit-manipulation    |    [191](bit-manipulation/%23191.py)    |    bit-manipulation    |    192    |        |
 |    193    |        |    194    |        |    195    |        |
 |    196    |        |    197    |        |    [198](dynamic-programming/%23198.py)    |    dynamic-programming    |
-|    199    |        |    [200](union-find/%23200.py)    |    union-find    |    201    |        |
+|    [199](breadth-first-search/%23199.py)    |    breadth-first-search    |    [200](union-find/%23200.py)    |    union-find    |    201    |        |
 |    [202](math/%23202.py)    |    math    |    203    |        |    [204](math/%23204.py)    |    math    |
 |    205    |        |    [206](linked-list/%23206.py)    |    linked-list    |    [207](graph/%23207.py)    |    graph    |
 |    [208](design/%23208.py)    |    design    |    209    |        |    [210](graph/%23210.py)    |    graph    |
-|    [211](design/%23211.py)    |    design    |    212    |        |    213    |        |
+|    [211](design/%23211.py)    |    design    |    [212](backtracking/%23212.py)    |    backtracking    |    213    |        |
 |    214    |        |    [215](heap/%23215.py)    |    heap    |    216    |        |
 |    217    |        |    218    |        |    219    |        |
 |    [220](dynamic-programming/%23220.py)    |    dynamic-programming    |    221    |        |    222    |        |
-|    223    |        |    224    |        |    [225](design/%23225.py)    |    design    |
-|    [226](tree/%23226.py)    |    tree    |    227    |        |    228    |        |
+|    [223](math/%23223.py)    |    math    |    [224](stack/%23224.py)    |    stack    |    [225](design/%23225.py)    |    design    |
+|    [226](tree/%23226.py)    |    tree    |    [227](stack/%23227.py)    |    stack    |    228    |        |
 |    229    |        |    230    |        |    231    |        |
 |    232    |        |    233    |        |    234    |        |
 |    235    |        |    236    |        |    237    |        |
 |    [238](array/%23238.py)    |    array    |    239    |        |    [240](divide-and-conquer/%23240.py)    |    divide-and-conquer    |
 |    [241](divide-and-conquer/%23241.py)    |    divide-and-conquer    |    242    |        |    243    |        |
-|    244    |        |    245    |        |    246    |        |
-|    247    |        |    248    |        |    249    |        |
+|    244    |        |    245    |        |    [246](hash-table/%23246.py)    |    hash-table    |
+|    [247](recursion/%23247.py)    |    recursion    |    248    |        |    249    |        |
 |    250    |        |    251    |        |    252    |        |
 |    [253](heap/%23253.py)    |    heap    |    254    |        |    255    |        |
 |    256    |        |    257    |        |    [258](math/%23258.py)    |    math    |
@@ -97,7 +97,7 @@
 |    268    |        |    269    |        |    270    |        |
 |    271    |        |    272    |        |    273    |        |
 |    274    |        |    275    |        |    276    |        |
-|    277    |        |    [278](binary-search/%23278.py)    |    binary-search    |    279    |        |
+|    277    |        |    [278](binary-search/%23278.py)    |    binary-search    |    [279](math/%23279.py)    |    math    |
 |    280    |        |    281    |        |    282    |        |
 |    283    |        |    284    |        |    285    |        |
 |    286    |        |    287    |        |    288    |        |
@@ -259,8 +259,8 @@
 |    754    |        |    755    |        |    756    |        |
 |    757    |        |    758    |        |    759    |        |
 |    760    |        |    761    |        |    762    |        |
-|    763    |        |    764    |        |    765    |        |
-|    766    |        |    767    |        |    768    |        |
+|    [763](greedy/%23763.py)    |    greedy    |    764    |        |    765    |        |
+|    766    |        |    [767](greedy/%23767.py)    |    greedy    |    768    |        |
 |    769    |        |    770    |        |    771    |        |
 |    772    |        |    773    |        |    774    |        |
 |    775    |        |    776    |        |    777    |        |
@@ -281,7 +281,7 @@
 |    820    |        |    821    |        |    822    |        |
 |    823    |        |    824    |        |    825    |        |
 |    826    |        |    827    |        |    828    |        |
-|    829    |        |    830    |        |    831    |        |
+|    [829](math/%23829.py)    |    math    |    830    |        |    831    |        |
 |    832    |        |    833    |        |    834    |        |
 |    835    |        |    836    |        |    837    |        |
 |    838    |        |    839    |        |    840    |        |
@@ -403,7 +403,7 @@
 |    1186    |        |    1187    |        |    1188    |        |
 |    1189    |        |    1190    |        |    1191    |        |
 |    1192    |        |    1193    |        |    1194    |        |
-|    1195    |        |    1196    |        |    1197    |        |
+|    1195    |        |    1196    |        |    [1197](breadth-first-search/%231197.py)    |    breadth-first-search    |
 |    1198    |        |    1199    |        |    1200    |        |
 |    1201    |        |    1202    |        |    1203    |        |
 |    1204    |        |    1205    |        |    1206    |        |
@@ -550,7 +550,7 @@
 |    1627    |        |    1628    |        |    1629    |        |
 |    1630    |        |    1631    |        |    1632    |        |
 |    1633    |        |    1634    |        |    1635    |        |
-|    1636    |        |    1637    |        |    1638    |        |
+|    [1636](sort/%231636.py)    |    sort    |    [1637](sort/%231637.py)    |    sort    |    1638    |        |
 |    1639    |        |    1640    |        |    1641    |        |
 |    1642    |        |    1643    |        |    1644    |        |
 |    1645    |        |    1646    |        |    1647    |        |
@@ -558,8 +558,8 @@
 |    1651    |        |    [1652](array/%231652.py)    |    array    |    [1653](greedy/%231653.py)    |    greedy    |
 |    [1654](breadth-first-search/%231654.py)    |    breadth-first-search    |    1655    |        |    [1656](design/%231656.py)    |    design    |
 |    [1657](greedy/%231657.py)    |    greedy    |    1658    |        |    1659    |        |
-|    1660    |        |    1661    |        |    1662    |        |
-|    1663    |        |    1664    |        |    1665    |        |
+|    1660    |        |    1661    |        |    [1662](string/%231662.py)    |    string    |
+|    [1663](string/%231663.py)    |    string    |    [1664](array/%231664.py)    |    array    |    1665    |        |
 |    1666    |        |    1667    |        |    1668    |        |
 |    1669    |        |    1670    |        |    1671    |        |
 |    1672    |        |    1673    |        |    1674    |        |
