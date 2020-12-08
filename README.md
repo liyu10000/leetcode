@@ -1,4 +1,4 @@
-## LeetCode Solutions (257/1800)
+## LeetCode Solutions (271/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -46,7 +46,7 @@
 |    115    |        |    116    |        |    117    |        |
 |    118    |        |    119    |        |    [120](dynamic-programming/%23120.py)    |    dynamic-programming    |
 |    [121](dynamic-programming/%23121.py)    |    dynamic-programming    |    [122](greedy/%23122.py)    |    greedy    |    123    |        |
-|    124    |        |    125    |        |    126    |        |
+|    [124](depth-first-search/%23124.py)    |    depth-first-search    |    125    |        |    126    |        |
 |    [127](breadth-first-search/%23127.py)    |    breadth-first-search    |    128    |        |    129    |        |
 |    [130](union-find/%23130.py)    |    union-find    |    [131](backtracking/%23131.py)    |    backtracking    |    132    |        |
 |    [133](graph/%23133.py)    |    graph    |    [134](greedy/%23134.py)    |    greedy    |    135    |        |
@@ -78,12 +78,12 @@
 |    [211](design/%23211.py)    |    design    |    [212](backtracking/%23212.py)    |    backtracking    |    213    |        |
 |    214    |        |    [215](heap/%23215.py)    |    heap    |    216    |        |
 |    217    |        |    218    |        |    219    |        |
-|    [220](dynamic-programming/%23220.py)    |    dynamic-programming    |    221    |        |    222    |        |
+|    [220](dynamic-programming/%23220.py)    |    dynamic-programming    |    [221](dynamic-programming/%23221.py)    |    dynamic-programming    |    222    |        |
 |    [223](math/%23223.py)    |    math    |    [224](stack/%23224.py)    |    stack    |    [225](design/%23225.py)    |    design    |
 |    [226](tree/%23226.py)    |    tree    |    [227](stack/%23227.py)    |    stack    |    228    |        |
 |    229    |        |    230    |        |    231    |        |
 |    232    |        |    233    |        |    234    |        |
-|    235    |        |    236    |        |    237    |        |
+|    235    |        |    [236](tree/%23236.py)    |    tree    |    237    |        |
 |    [238](array/%23238.py)    |    array    |    239    |        |    [240](divide-and-conquer/%23240.py)    |    divide-and-conquer    |
 |    [241](divide-and-conquer/%23241.py)    |    divide-and-conquer    |    242    |        |    243    |        |
 |    244    |        |    245    |        |    [246](hash-table/%23246.py)    |    hash-table    |
@@ -108,11 +108,11 @@
 |    301    |        |    302    |        |    [303](dynamic-programming/%23303.py)    |    dynamic-programming    |
 |    304    |        |    305    |        |    306    |        |
 |    307    |        |    308    |        |    309    |        |
-|    [310](graph/%23310.py)    |    graph    |    311    |        |    312    |        |
+|    [310](graph/%23310.py)    |    graph    |    311    |        |    [312](divide-and-conquer/%23312.py)    |    divide-and-conquer    |
 |    [313](heap/%23313.py)    |    heap    |    314    |        |    315    |        |
 |    316    |        |    317    |        |    318    |        |
 |    319    |        |    320    |        |    321    |        |
-|    322    |        |    323    |        |    324    |        |
+|    [322](dynamic-programming/%23322.py)    |    dynamic-programming    |    323    |        |    324    |        |
 |    325    |        |    326    |        |    327    |        |
 |    328    |        |    329    |        |    330    |        |
 |    331    |        |    [332](graph/%23332.py)    |    graph    |    333    |        |
@@ -179,7 +179,7 @@
 |    514    |        |    515    |        |    516    |        |
 |    517    |        |    518    |        |    519    |        |
 |    520    |        |    521    |        |    522    |        |
-|    523    |        |    524    |        |    525    |        |
+|    [523](dynamic-programming/%23523.py)    |    dynamic-programming    |    524    |        |    525    |        |
 |    526    |        |    527    |        |    528    |        |
 |    529    |        |    [530](tree/%23530.py)    |    tree    |    531    |        |
 |    532    |        |    533    |        |    534    |        |
@@ -220,7 +220,7 @@
 |    637    |        |    638    |        |    639    |        |
 |    640    |        |    641    |        |    642    |        |
 |    643    |        |    644    |        |    645    |        |
-|    646    |        |    647    |        |    [648](trie/%23648.py)    |    trie    |
+|    646    |        |    [647](dynamic-programming/%23647.py)    |    dynamic-programming    |    [648](trie/%23648.py)    |    trie    |
 |    649    |        |    650    |        |    651    |        |
 |    652    |        |    653    |        |    654    |        |
 |    655    |        |    656    |        |    657    |        |
@@ -236,7 +236,7 @@
 |    685    |        |    686    |        |    [687](recursion/%23687.py)    |    recursion    |
 |    688    |        |    689    |        |    [690](tree/%23690.py)    |    tree    |
 |    691    |        |    [692](trie/%23692.py)    |    trie    |    693    |        |
-|    694    |        |    695    |        |    696    |        |
+|    694    |        |    [695](depth-first-search/%23695.py)    |    depth-first-search    |    696    |        |
 |    697    |        |    [698](recursion/%23698.py)    |    recursion    |    699    |        |
 |    700    |        |    701    |        |    702    |        |
 |    703    |        |    704    |        |    705    |        |
@@ -331,7 +331,7 @@
 |    970    |        |    971    |        |    972    |        |
 |    [973](divide-and-conquer/%23973.py)    |    divide-and-conquer    |    974    |        |    975    |        |
 |    976    |        |    977    |        |    [978](sliding-window/%23978.py)    |    sliding-window    |
-|    979    |        |    980    |        |    981    |        |
+|    979    |        |    980    |        |    [981](binary-search/%23981.py)    |    binary-search    |
 |    982    |        |    983    |        |    984    |        |
 |    985    |        |    986    |        |    987    |        |
 |    988    |        |    989    |        |    990    |        |
@@ -351,7 +351,7 @@
 |    [1030](sort/%231030.py)    |    sort    |    1031    |        |    1032    |        |
 |    1033    |        |    1034    |        |    1035    |        |
 |    1036    |        |    1037    |        |    [1038](tree/%231038.py)    |    tree    |
-|    1039    |        |    1040    |        |    1041    |        |
+|    [1039](dynamic-programming/%231039.py)    |    dynamic-programming    |    1040    |        |    [1041](math/%231041.py)    |    math    |
 |    1042    |        |    [1043](dynamic-programming/%231043.py)    |    dynamic-programming    |    1044    |        |
 |    1045    |        |    1046    |        |    1047    |        |
 |    [1048](dynamic-programming/%231048.py)    |    dynamic-programming    |    1049    |        |    1050    |        |
@@ -449,7 +449,7 @@
 |    1324    |        |    1325    |        |    1326    |        |
 |    1327    |        |    1328    |        |    1329    |        |
 |    1330    |        |    1331    |        |    1332    |        |
-|    1333    |        |    1334    |        |    1335    |        |
+|    1333    |        |    1334    |        |    [1335](dynamic-programming/%231335.py)    |    dynamic-programming    |
 |    1336    |        |    1337    |        |    [1338](array/%231338.py)    |    array    |
 |    1339    |        |    1340    |        |    1341    |        |
 |    1342    |        |    1343    |        |    1344    |        |
@@ -561,11 +561,11 @@
 |    1660    |        |    1661    |        |    [1662](string/%231662.py)    |    string    |
 |    [1663](string/%231663.py)    |    string    |    [1664](array/%231664.py)    |    array    |    1665    |        |
 |    1666    |        |    1667    |        |    1668    |        |
-|    1669    |        |    1670    |        |    1671    |        |
+|    1669    |        |    1670    |        |    [1671](dynamic-programming/%231671.py)    |    dynamic-programming    |
 |    1672    |        |    1673    |        |    1674    |        |
 |    1675    |        |    1676    |        |    1677    |        |
 |    1678    |        |    1679    |        |    1680    |        |
-|    1681    |        |    1682    |        |    1683    |        |
+|    [1681](backtracking/%231681.py)    |    backtracking    |    1682    |        |    1683    |        |
 |    1684    |        |    1685    |        |    1686    |        |
 |    1687    |        |    1688    |        |    1689    |        |
 |    1690    |        |    1691    |        |    1692    |        |
