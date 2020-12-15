@@ -11,3 +11,15 @@ class Solution:
                 if sums[j] - sums[i] == k:
                     cnt += 1
         return cnt
+
+# use hashmap
+class Solution:
+    def subarraySum(self, nums: List[int], k: int) -> int:
+        c, s = 0, 0
+        d = defaultdict(int)
+        d[0] = 1
+        for n in nums:
+            s += n
+            c += d[s - k]
+            d[s] += 1
+        return c
