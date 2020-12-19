@@ -1,4 +1,4 @@
-## LeetCode Solutions (276/1800)
+## LeetCode Solutions (285/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -109,7 +109,7 @@
 |    304    |        |    305    |        |    306    |        |
 |    307    |        |    308    |        |    309    |        |
 |    [310](graph/%23310.py)    |    graph    |    311    |        |    [312](divide-and-conquer/%23312.py)    |    divide-and-conquer    |
-|    [313](heap/%23313.py)    |    heap    |    314    |        |    315    |        |
+|    [313](heap/%23313.py)    |    heap    |    [314](tree/%23314.py)    |    tree    |    315    |        |
 |    316    |        |    317    |        |    318    |        |
 |    319    |        |    320    |        |    321    |        |
 |    [322](dynamic-programming/%23322.py)    |    dynamic-programming    |    323    |        |    324    |        |
@@ -152,8 +152,8 @@
 |    433    |        |    434    |        |    435    |        |
 |    436    |        |    [437](tree/%23437.py)    |    tree    |    438    |        |
 |    439    |        |    440    |        |    441    |        |
-|    442    |        |    [443](string/%23443.py)    |    string    |    444    |        |
-|    445    |        |    446    |        |    447    |        |
+|    [442](array/%23442.py)    |    array    |    [443](string/%23443.py)    |    string    |    444    |        |
+|    [445](linked-list/%23445.py)    |    linked-list    |    446    |        |    447    |        |
 |    448    |        |    449    |        |    [450](tree/%23450.py)    |    tree    |
 |    451    |        |    452    |        |    453    |        |
 |    454    |        |    455    |        |    456    |        |
@@ -180,9 +180,9 @@
 |    517    |        |    518    |        |    519    |        |
 |    520    |        |    521    |        |    522    |        |
 |    [523](dynamic-programming/%23523.py)    |    dynamic-programming    |    524    |        |    525    |        |
-|    526    |        |    527    |        |    528    |        |
+|    526    |        |    527    |        |    [528](binary-search/%23528.py)    |    binary-search    |
 |    529    |        |    [530](tree/%23530.py)    |    tree    |    531    |        |
-|    532    |        |    533    |        |    534    |        |
+|    [532](hash-table/%23532.py)    |    hash-table    |    533    |        |    534    |        |
 |    535    |        |    536    |        |    537    |        |
 |    [538](tree/%23538.py)    |    tree    |    539    |        |    540    |        |
 |    541    |        |    542    |        |    [543](tree/%23543.py)    |    tree    |
@@ -333,7 +333,7 @@
 |    976    |        |    977    |        |    [978](sliding-window/%23978.py)    |    sliding-window    |
 |    979    |        |    980    |        |    [981](binary-search/%23981.py)    |    binary-search    |
 |    982    |        |    983    |        |    984    |        |
-|    985    |        |    986    |        |    987    |        |
+|    985    |        |    986    |        |    [987](tree/%23987.py)    |    tree    |
 |    988    |        |    989    |        |    990    |        |
 |    991    |        |    992    |        |    [993](breadth-first-search/%23993.py)    |    breadth-first-search    |
 |    [994](breadth-first-search/%23994.py)    |    breadth-first-search    |    995    |        |    996    |        |
@@ -353,7 +353,7 @@
 |    1036    |        |    1037    |        |    [1038](tree/%231038.py)    |    tree    |
 |    [1039](dynamic-programming/%231039.py)    |    dynamic-programming    |    1040    |        |    [1041](math/%231041.py)    |    math    |
 |    1042    |        |    [1043](dynamic-programming/%231043.py)    |    dynamic-programming    |    1044    |        |
-|    1045    |        |    1046    |        |    1047    |        |
+|    1045    |        |    1046    |        |    [1047](stack/%231047.py)    |    stack    |
 |    [1048](dynamic-programming/%231048.py)    |    dynamic-programming    |    1049    |        |    1050    |        |
 |    1051    |        |    [1052](sliding-window/%231052.py)    |    sliding-window    |    1053    |        |
 |    1054    |        |    1055    |        |    1056    |        |
@@ -407,7 +407,7 @@
 |    1198    |        |    1199    |        |    1200    |        |
 |    1201    |        |    1202    |        |    1203    |        |
 |    1204    |        |    1205    |        |    1206    |        |
-|    1207    |        |    1208    |        |    1209    |        |
+|    1207    |        |    1208    |        |    [1209](stack/%231209.py)    |    stack    |
 |    1210    |        |    1211    |        |    1212    |        |
 |    1213    |        |    1214    |        |    1215    |        |
 |    1216    |        |    [1217](math/%231217.py)    |    math    |    1218    |        |
@@ -432,7 +432,7 @@
 |    1273    |        |    1274    |        |    1275    |        |
 |    1276    |        |    [1277](dynamic-programming/%231277.py)    |    dynamic-programming    |    1278    |        |
 |    1279    |        |    1280    |        |    1281    |        |
-|    [1282](greedy/%231282.py)    |    greedy    |    1283    |        |    1284    |        |
+|    [1282](greedy/%231282.py)    |    greedy    |    [1283](binary-search/%231283.py)    |    binary-search    |    1284    |        |
 |    1285    |        |    1286    |        |    1287    |        |
 |    1288    |        |    1289    |        |    1290    |        |
 |    1291    |        |    1292    |        |    1293    |        |
