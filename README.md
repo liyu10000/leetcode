@@ -1,4 +1,4 @@
-## LeetCode Solutions (285/1800)
+## LeetCode Solutions (291/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -84,7 +84,7 @@
 |    229    |        |    230    |        |    231    |        |
 |    232    |        |    233    |        |    234    |        |
 |    235    |        |    [236](tree/%23236.py)    |    tree    |    237    |        |
-|    [238](array/%23238.py)    |    array    |    239    |        |    [240](divide-and-conquer/%23240.py)    |    divide-and-conquer    |
+|    [238](array/%23238.py)    |    array    |    [239](dequeue/%23239.py)    |    dequeue    |    [240](divide-and-conquer/%23240.py)    |    divide-and-conquer    |
 |    [241](divide-and-conquer/%23241.py)    |    divide-and-conquer    |    242    |        |    243    |        |
 |    244    |        |    245    |        |    [246](hash-table/%23246.py)    |    hash-table    |
 |    [247](recursion/%23247.py)    |    recursion    |    248    |        |    249    |        |
@@ -125,7 +125,7 @@
 |    352    |        |    353    |        |    [354](dynamic-programming/%23354.py)    |    dynamic-programming    |
 |    [355](heap/%23355.py)    |    heap    |    356    |        |    357    |        |
 |    358    |        |    359    |        |    360    |        |
-|    361    |        |    362    |        |    363    |        |
+|    361    |        |    [362](design/%23362.py)    |    design    |    363    |        |
 |    364    |        |    365    |        |    366    |        |
 |    367    |        |    368    |        |    369    |        |
 |    370    |        |    371    |        |    372    |        |
@@ -251,7 +251,7 @@
 |    730    |        |    731    |        |    732    |        |
 |    [733](depth-first-search/%23733.py)    |    depth-first-search    |    734    |        |    735    |        |
 |    736    |        |    737    |        |    738    |        |
-|    739    |        |    [740](dynamic-programming/%23740.py)    |    dynamic-programming    |    741    |        |
+|    [739](stack/%23739.py)    |    stack    |    [740](dynamic-programming/%23740.py)    |    dynamic-programming    |    741    |        |
 |    742    |        |    743    |        |    744    |        |
 |    745    |        |    [746](dynamic-programming/%23746.py)    |    dynamic-programming    |    747    |        |
 |    748    |        |    749    |        |    750    |        |
@@ -569,8 +569,8 @@
 |    1684    |        |    1685    |        |    1686    |        |
 |    1687    |        |    1688    |        |    1689    |        |
 |    1690    |        |    1691    |        |    1692    |        |
-|    1693    |        |    1694    |        |    1695    |        |
-|    1696    |        |    1697    |        |    1698    |        |
+|    1693    |        |    [1694](string/%231694.py)    |    string    |    [1695](two-pointers/%231695.py)    |    two-pointers    |
+|    [1696](dequeue/%231696.py)    |    dequeue    |    1697    |        |    1698    |        |
 |    1699    |        |    1700    |        |    1701    |        |
 |    1702    |        |    1703    |        |    1704    |        |
 |    1705    |        |    1706    |        |    1707    |        |
