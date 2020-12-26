@@ -1,4 +1,4 @@
-## LeetCode Solutions (291/1800)
+## LeetCode Solutions (297/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -30,7 +30,7 @@
 |    [67](math/%2367.py)    |    math    |    68    |        |    [69](math/%2369.py)    |    math    |
 |    [70](dynamic-programming/%2370.py)    |    dynamic-programming    |    [71](stack/%2371.py)    |    stack    |    72    |        |
 |    [73](array/%2373.py)    |    array    |    [74](binary-search/%2374.py)    |    binary-search    |    [75](sort/%2375.py)    |    sort    |
-|    76    |        |    [77](backtracking/%2377.py)    |    backtracking    |    [78](bit-manipulation/%2378.py)    |    bit-manipulation    |
+|    [76](two-pointers/%2376.py)    |    two-pointers    |    [77](backtracking/%2377.py)    |    backtracking    |    [78](bit-manipulation/%2378.py)    |    bit-manipulation    |
 |    [79](backtracking/%2379.py)    |    backtracking    |    [80](two-pointers/%2380.py)    |    two-pointers    |    [81](binary-search/%2381.py)    |    binary-search    |
 |    [82](linked-list/%2382.py)    |    linked-list    |    [83](linked-list/%2383.py)    |    linked-list    |    [84](array/%2384.py)    |    array    |
 |    85    |        |    [86](linked-list/%2386.py)    |    linked-list    |    87    |        |
@@ -74,7 +74,7 @@
 |    [199](breadth-first-search/%23199.py)    |    breadth-first-search    |    [200](union-find/%23200.py)    |    union-find    |    201    |        |
 |    [202](math/%23202.py)    |    math    |    203    |        |    [204](math/%23204.py)    |    math    |
 |    205    |        |    [206](linked-list/%23206.py)    |    linked-list    |    [207](graph/%23207.py)    |    graph    |
-|    [208](design/%23208.py)    |    design    |    209    |        |    [210](graph/%23210.py)    |    graph    |
+|    [208](design/%23208.py)    |    design    |    [209](two-pointers/%23209.py)    |    two-pointers    |    [210](graph/%23210.py)    |    graph    |
 |    [211](design/%23211.py)    |    design    |    [212](backtracking/%23212.py)    |    backtracking    |    213    |        |
 |    214    |        |    [215](heap/%23215.py)    |    heap    |    216    |        |
 |    217    |        |    218    |        |    219    |        |
@@ -100,8 +100,8 @@
 |    277    |        |    [278](binary-search/%23278.py)    |    binary-search    |    [279](math/%23279.py)    |    math    |
 |    280    |        |    281    |        |    282    |        |
 |    283    |        |    284    |        |    285    |        |
-|    286    |        |    287    |        |    288    |        |
-|    289    |        |    290    |        |    291    |        |
+|    286    |        |    [287](array/%23287.py)    |    array    |    288    |        |
+|    [289](array/%23289.py)    |    array    |    290    |        |    291    |        |
 |    292    |        |    293    |        |    294    |        |
 |    295    |        |    296    |        |    297    |        |
 |    298    |        |    [299](array/%23299.py)    |    array    |    [300](dynamic-programming/%23300.py)    |    dynamic-programming    |
@@ -180,7 +180,7 @@
 |    517    |        |    518    |        |    519    |        |
 |    520    |        |    521    |        |    522    |        |
 |    [523](dynamic-programming/%23523.py)    |    dynamic-programming    |    524    |        |    525    |        |
-|    526    |        |    527    |        |    [528](binary-search/%23528.py)    |    binary-search    |
+|    [526](backtracking/%23526.py)    |    backtracking    |    527    |        |    [528](binary-search/%23528.py)    |    binary-search    |
 |    529    |        |    [530](tree/%23530.py)    |    tree    |    531    |        |
 |    [532](hash-table/%23532.py)    |    hash-table    |    533    |        |    534    |        |
 |    535    |        |    536    |        |    537    |        |
@@ -245,7 +245,7 @@
 |    712    |        |    713    |        |    714    |        |
 |    715    |        |    716    |        |    717    |        |
 |    718    |        |    719    |        |    720    |        |
-|    721    |        |    722    |        |    723    |        |
+|    [721](union-find/%23721.py)    |    union-find    |    722    |        |    723    |        |
 |    724    |        |    725    |        |    726    |        |
 |    727    |        |    728    |        |    729    |        |
 |    730    |        |    731    |        |    732    |        |
