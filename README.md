@@ -1,4 +1,4 @@
-## LeetCode Solutions (297/1800)
+## LeetCode Solutions (301/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -64,7 +64,7 @@
 |    [169](bit-manipulation/%23169.py)    |    bit-manipulation    |    170    |        |    [171](math/%23171.py)    |    math    |
 |    [172](math/%23172.py)    |    math    |    [173](design/%23173.py)    |    design    |    174    |        |
 |    175    |        |    176    |        |    177    |        |
-|    178    |        |    179    |        |    180    |        |
+|    178    |        |    [179](sort/%23179.py)    |    sort    |    180    |        |
 |    181    |        |    182    |        |    183    |        |
 |    184    |        |    185    |        |    186    |        |
 |    [187](bit-manipulation/%23187.py)    |    bit-manipulation    |    188    |        |    [189](array/%23189.py)    |    array    |
@@ -113,7 +113,7 @@
 |    316    |        |    317    |        |    318    |        |
 |    319    |        |    320    |        |    321    |        |
 |    [322](dynamic-programming/%23322.py)    |    dynamic-programming    |    323    |        |    324    |        |
-|    325    |        |    326    |        |    327    |        |
+|    [325](hash-table/%23325.py)    |    hash-table    |    326    |        |    327    |        |
 |    328    |        |    329    |        |    330    |        |
 |    331    |        |    [332](graph/%23332.py)    |    graph    |    333    |        |
 |    334    |        |    335    |        |    336    |        |
@@ -567,7 +567,7 @@
 |    1678    |        |    1679    |        |    1680    |        |
 |    [1681](backtracking/%231681.py)    |    backtracking    |    1682    |        |    1683    |        |
 |    1684    |        |    1685    |        |    1686    |        |
-|    1687    |        |    1688    |        |    1689    |        |
+|    1687    |        |    [1688](math/%231688.py)    |    math    |    [1689](math/%231689.py)    |    math    |
 |    1690    |        |    1691    |        |    1692    |        |
 |    1693    |        |    [1694](string/%231694.py)    |    string    |    [1695](two-pointers/%231695.py)    |    two-pointers    |
 |    [1696](dequeue/%231696.py)    |    dequeue    |    1697    |        |    1698    |        |
