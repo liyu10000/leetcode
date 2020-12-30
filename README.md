@@ -1,4 +1,4 @@
-## LeetCode Solutions (301/1800)
+## LeetCode Solutions (309/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -107,7 +107,7 @@
 |    298    |        |    [299](array/%23299.py)    |    array    |    [300](dynamic-programming/%23300.py)    |    dynamic-programming    |
 |    301    |        |    302    |        |    [303](dynamic-programming/%23303.py)    |    dynamic-programming    |
 |    304    |        |    305    |        |    306    |        |
-|    307    |        |    308    |        |    309    |        |
+|    307    |        |    308    |        |    [309](dynamic-programming/%23309.py)    |    dynamic-programming    |
 |    [310](graph/%23310.py)    |    graph    |    311    |        |    [312](divide-and-conquer/%23312.py)    |    divide-and-conquer    |
 |    [313](heap/%23313.py)    |    heap    |    [314](tree/%23314.py)    |    tree    |    315    |        |
 |    316    |        |    317    |        |    318    |        |
@@ -120,7 +120,7 @@
 |    337    |        |    338    |        |    339    |        |
 |    340    |        |    341    |        |    342    |        |
 |    343    |        |    344    |        |    345    |        |
-|    346    |        |    [347](heap/%23347.py)    |    heap    |    348    |        |
+|    346    |        |    [347](heap/%23347.py)    |    heap    |    [348](design/%23348.py)    |    design    |
 |    349    |        |    350    |        |    351    |        |
 |    352    |        |    353    |        |    [354](dynamic-programming/%23354.py)    |    dynamic-programming    |
 |    [355](heap/%23355.py)    |    heap    |    356    |        |    357    |        |
@@ -184,7 +184,7 @@
 |    529    |        |    [530](tree/%23530.py)    |    tree    |    531    |        |
 |    [532](hash-table/%23532.py)    |    hash-table    |    533    |        |    534    |        |
 |    535    |        |    536    |        |    537    |        |
-|    [538](tree/%23538.py)    |    tree    |    539    |        |    540    |        |
+|    [538](tree/%23538.py)    |    tree    |    [539](array/%23539.py)    |    array    |    540    |        |
 |    541    |        |    542    |        |    [543](tree/%23543.py)    |    tree    |
 |    544    |        |    545    |        |    546    |        |
 |    [547](union-find/%23547.py)    |    union-find    |    548    |        |    549    |        |
@@ -207,7 +207,7 @@
 |    598    |        |    599    |        |    600    |        |
 |    601    |        |    602    |        |    603    |        |
 |    604    |        |    605    |        |    606    |        |
-|    607    |        |    608    |        |    609    |        |
+|    607    |        |    608    |        |    [609](hash-table/%23609.py)    |    hash-table    |
 |    610    |        |    611    |        |    612    |        |
 |    613    |        |    614    |        |    615    |        |
 |    616    |        |    617    |        |    618    |        |
@@ -245,7 +245,7 @@
 |    712    |        |    713    |        |    714    |        |
 |    715    |        |    716    |        |    717    |        |
 |    718    |        |    719    |        |    720    |        |
-|    [721](union-find/%23721.py)    |    union-find    |    722    |        |    723    |        |
+|    [721](union-find/%23721.py)    |    union-find    |    722    |        |    [723](array/%23723.py)    |    array    |
 |    724    |        |    725    |        |    726    |        |
 |    727    |        |    728    |        |    729    |        |
 |    730    |        |    731    |        |    732    |        |
@@ -323,17 +323,17 @@
 |    946    |        |    947    |        |    948    |        |
 |    949    |        |    950    |        |    951    |        |
 |    952    |        |    953    |        |    954    |        |
-|    955    |        |    956    |        |    957    |        |
+|    955    |        |    956    |        |    [957](hash-table/%23957.py)    |    hash-table    |
 |    958    |        |    959    |        |    960    |        |
 |    961    |        |    962    |        |    963    |        |
 |    964    |        |    965    |        |    966    |        |
 |    967    |        |    968    |        |    969    |        |
 |    970    |        |    971    |        |    972    |        |
-|    [973](divide-and-conquer/%23973.py)    |    divide-and-conquer    |    974    |        |    975    |        |
+|    [973](divide-and-conquer/%23973.py)    |    divide-and-conquer    |    [974](hash-table/%23974.py)    |    hash-table    |    975    |        |
 |    976    |        |    977    |        |    [978](sliding-window/%23978.py)    |    sliding-window    |
 |    979    |        |    980    |        |    [981](binary-search/%23981.py)    |    binary-search    |
 |    982    |        |    983    |        |    984    |        |
-|    985    |        |    986    |        |    [987](tree/%23987.py)    |    tree    |
+|    985    |        |    [986](two-pointers/%23986.py)    |    two-pointers    |    [987](tree/%23987.py)    |    tree    |
 |    988    |        |    989    |        |    990    |        |
 |    991    |        |    992    |        |    [993](breadth-first-search/%23993.py)    |    breadth-first-search    |
 |    [994](breadth-first-search/%23994.py)    |    breadth-first-search    |    995    |        |    996    |        |
