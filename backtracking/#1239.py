@@ -32,3 +32,17 @@ class Solution:
         self.mlen = 0
         backtrack(0, '')
         return self.mlen
+
+# increment answers
+class Solution:
+    def maxLength(self, arr: List[str]) -> int:
+        dp = [set()]
+        for a in arr:
+            b = set(a)
+            if len(b) < len(a):
+                continue
+            for c in dp[:]:
+                if b & c:
+                    continue
+                dp.append(b | c)
+        return max(len(c) for c in dp)
