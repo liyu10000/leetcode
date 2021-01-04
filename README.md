@@ -1,4 +1,4 @@
-## LeetCode Solutions (330/1800)
+## LeetCode Solutions (336/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -90,7 +90,7 @@
 |    [247](recursion/%23247.py)    |    recursion    |    248    |        |    249    |        |
 |    250    |        |    251    |        |    252    |        |
 |    [253](heap/%23253.py)    |    heap    |    254    |        |    255    |        |
-|    256    |        |    257    |        |    [258](math/%23258.py)    |    math    |
+|    [256](dynamic-programming/%23256.py)    |    dynamic-programming    |    257    |        |    [258](math/%23258.py)    |    math    |
 |    259    |        |    260    |        |    261    |        |
 |    262    |        |    263    |        |    [264](heap/%23264.py)    |    heap    |
 |    265    |        |    266    |        |    267    |        |
@@ -100,7 +100,7 @@
 |    277    |        |    [278](binary-search/%23278.py)    |    binary-search    |    [279](math/%23279.py)    |    math    |
 |    280    |        |    281    |        |    282    |        |
 |    283    |        |    284    |        |    285    |        |
-|    286    |        |    [287](array/%23287.py)    |    array    |    288    |        |
+|    [286](breadth-first-search/%23286.py)    |    breadth-first-search    |    [287](array/%23287.py)    |    array    |    288    |        |
 |    [289](array/%23289.py)    |    array    |    290    |        |    291    |        |
 |    292    |        |    293    |        |    294    |        |
 |    295    |        |    296    |        |    297    |        |
@@ -108,7 +108,7 @@
 |    301    |        |    302    |        |    [303](dynamic-programming/%23303.py)    |    dynamic-programming    |
 |    304    |        |    305    |        |    306    |        |
 |    307    |        |    308    |        |    [309](dynamic-programming/%23309.py)    |    dynamic-programming    |
-|    [310](graph/%23310.py)    |    graph    |    311    |        |    [312](divide-and-conquer/%23312.py)    |    divide-and-conquer    |
+|    [310](graph/%23310.py)    |    graph    |    [311](array/%23311.py)    |    array    |    [312](divide-and-conquer/%23312.py)    |    divide-and-conquer    |
 |    [313](heap/%23313.py)    |    heap    |    [314](tree/%23314.py)    |    tree    |    315    |        |
 |    316    |        |    317    |        |    318    |        |
 |    319    |        |    320    |        |    321    |        |
@@ -123,7 +123,7 @@
 |    346    |        |    [347](heap/%23347.py)    |    heap    |    [348](design/%23348.py)    |    design    |
 |    349    |        |    350    |        |    351    |        |
 |    352    |        |    [353](design/%23353.py)    |    design    |    [354](dynamic-programming/%23354.py)    |    dynamic-programming    |
-|    [355](heap/%23355.py)    |    heap    |    356    |        |    357    |        |
+|    [355](heap/%23355.py)    |    heap    |    [356](math/%23356.py)    |    math    |    357    |        |
 |    358    |        |    359    |        |    360    |        |
 |    361    |        |    [362](design/%23362.py)    |    design    |    363    |        |
 |    364    |        |    365    |        |    366    |        |
@@ -184,7 +184,7 @@
 |    529    |        |    [530](tree/%23530.py)    |    tree    |    531    |        |
 |    [532](hash-table/%23532.py)    |    hash-table    |    533    |        |    534    |        |
 |    535    |        |    536    |        |    537    |        |
-|    [538](tree/%23538.py)    |    tree    |    [539](array/%23539.py)    |    array    |    540    |        |
+|    [538](tree/%23538.py)    |    tree    |    [539](array/%23539.py)    |    array    |    [540](binary-search/%23540.py)    |    binary-search    |
 |    541    |        |    542    |        |    [543](tree/%23543.py)    |    tree    |
 |    544    |        |    545    |        |    546    |        |
 |    [547](union-find/%23547.py)    |    union-find    |    548    |        |    549    |        |
@@ -465,7 +465,7 @@
 |    1372    |        |    1373    |        |    1374    |        |
 |    1375    |        |    1376    |        |    1377    |        |
 |    1378    |        |    [1379](tree/%231379.py)    |    tree    |    1380    |        |
-|    1381    |        |    1382    |        |    1383    |        |
+|    [1381](design/%231381.py)    |    design    |    1382    |        |    1383    |        |
 |    1384    |        |    1385    |        |    1386    |        |
 |    1387    |        |    1388    |        |    1389    |        |
 |    1390    |        |    1391    |        |    1392    |        |
