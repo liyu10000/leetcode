@@ -1,4 +1,4 @@
-## LeetCode Solutions (357/1800)
+## LeetCode Solutions (362/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -72,7 +72,7 @@
 |    193    |        |    194    |        |    195    |        |
 |    196    |        |    197    |        |    [198](dynamic-programming/%23198.py)    |    dynamic-programming    |
 |    [199](breadth-first-search/%23199.py)    |    breadth-first-search    |    [200](union-find/%23200.py)    |    union-find    |    201    |        |
-|    [202](math/%23202.py)    |    math    |    203    |        |    [204](math/%23204.py)    |    math    |
+|    [202](math/%23202.py)    |    math    |    [203](linked-list/%23203.py)    |    linked-list    |    [204](math/%23204.py)    |    math    |
 |    205    |        |    [206](linked-list/%23206.py)    |    linked-list    |    [207](graph/%23207.py)    |    graph    |
 |    [208](design/%23208.py)    |    design    |    [209](two-pointers/%23209.py)    |    two-pointers    |    [210](graph/%23210.py)    |    graph    |
 |    [211](design/%23211.py)    |    design    |    [212](backtracking/%23212.py)    |    backtracking    |    213    |        |
@@ -127,7 +127,7 @@
 |    358    |        |    359    |        |    360    |        |
 |    361    |        |    [362](design/%23362.py)    |    design    |    363    |        |
 |    364    |        |    365    |        |    366    |        |
-|    367    |        |    368    |        |    369    |        |
+|    367    |        |    368    |        |    [369](linked-list/%23369.py)    |    linked-list    |
 |    370    |        |    371    |        |    372    |        |
 |    373    |        |    374    |        |    375    |        |
 |    [376](greedy/%23376.py)    |    greedy    |    377    |        |    [378](heap/%23378.py)    |    heap    |
@@ -146,7 +146,7 @@
 |    415    |        |    416    |        |    [417](depth-first-search/%23417.py)    |    depth-first-search    |
 |    418    |        |    [419](depth-first-search/%23419.py)    |    depth-first-search    |    420    |        |
 |    [421](trie/%23421.py)    |    trie    |    422    |        |    423    |        |
-|    [424](sliding-window/%23424.py)    |    sliding-window    |    425    |        |    426    |        |
+|    [424](sliding-window/%23424.py)    |    sliding-window    |    425    |        |    [426](linked-list/%23426.py)    |    linked-list    |
 |    427    |        |    428    |        |    429    |        |
 |    430    |        |    431    |        |    432    |        |
 |    433    |        |    434    |        |    435    |        |
@@ -561,7 +561,7 @@
 |    1660    |        |    1661    |        |    [1662](string/%231662.py)    |    string    |
 |    [1663](string/%231663.py)    |    string    |    [1664](array/%231664.py)    |    array    |    1665    |        |
 |    1666    |        |    1667    |        |    1668    |        |
-|    1669    |        |    1670    |        |    [1671](dynamic-programming/%231671.py)    |    dynamic-programming    |
+|    [1669](linked-list/%231669.py)    |    linked-list    |    1670    |        |    [1671](dynamic-programming/%231671.py)    |    dynamic-programming    |
 |    1672    |        |    [1673](stack/%231673.py)    |    stack    |    1674    |        |
 |    1675    |        |    1676    |        |    1677    |        |
 |    1678    |        |    1679    |        |    1680    |        |
@@ -578,7 +578,7 @@
 |    1711    |        |    1712    |        |    1713    |        |
 |    1714    |        |    1715    |        |    [1716](math/%231716.py)    |    math    |
 |    [1717](greedy/%231717.py)    |    greedy    |    1718    |        |    1719    |        |
-|    1720    |        |    1721    |        |    1722    |        |
+|    1720    |        |    [1721](linked-list/%231721.py)    |    linked-list    |    1722    |        |
 |    1723    |        |    1724    |        |    1725    |        |
 |    1726    |        |    1727    |        |    1728    |        |
 |    1729    |        |    1730    |        |    1731    |        |
