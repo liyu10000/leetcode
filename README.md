@@ -1,4 +1,4 @@
-## LeetCode Solutions (377/1800)
+## LeetCode Solutions (382/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -34,7 +34,7 @@
 |    [79](backtracking/%2379.py)    |    backtracking    |    [80](two-pointers/%2380.py)    |    two-pointers    |    [81](binary-search/%2381.py)    |    binary-search    |
 |    [82](linked-list/%2382.py)    |    linked-list    |    [83](linked-list/%2383.py)    |    linked-list    |    [84](array/%2384.py)    |    array    |
 |    85    |        |    [86](linked-list/%2386.py)    |    linked-list    |    87    |        |
-|    88    |        |    89    |        |    [90](backtracking/%2390.py)    |    backtracking    |
+|    [88](sort/%2388.py)    |    sort    |    89    |        |    [90](backtracking/%2390.py)    |    backtracking    |
 |    [91](dynamic-programming/%2391.py)    |    dynamic-programming    |    92    |        |    93    |        |
 |    [94](tree/%2394.py)    |    tree    |    [95](tree/%2395.py)    |    tree    |    [96](tree/%2396.py)    |    tree    |
 |    [97](dynamic-programming/%2397.py)    |    dynamic-programming    |    [98](tree/%2398.py)    |    tree    |    99    |        |
@@ -119,7 +119,7 @@
 |    334    |        |    335    |        |    336    |        |
 |    337    |        |    338    |        |    339    |        |
 |    340    |        |    341    |        |    342    |        |
-|    343    |        |    344    |        |    345    |        |
+|    343    |        |    [344](string/%23344.py)    |    string    |    345    |        |
 |    346    |        |    [347](heap/%23347.py)    |    heap    |    [348](design/%23348.py)    |    design    |
 |    349    |        |    350    |        |    351    |        |
 |    352    |        |    [353](design/%23353.py)    |    design    |    [354](dynamic-programming/%23354.py)    |    dynamic-programming    |
@@ -169,7 +169,7 @@
 |    484    |        |    485    |        |    486    |        |
 |    487    |        |    488    |        |    489    |        |
 |    490    |        |    491    |        |    492    |        |
-|    493    |        |    494    |        |    495    |        |
+|    [493](divide-and-conquer/%23493.py)    |    divide-and-conquer    |    494    |        |    495    |        |
 |    [496](stack/%23496.py)    |    stack    |    497    |        |    498    |        |
 |    499    |        |    500    |        |    501    |        |
 |    502    |        |    [503](stack/%23503.py)    |    stack    |    504    |        |
@@ -315,7 +315,7 @@
 |    922    |        |    923    |        |    924    |        |
 |    925    |        |    926    |        |    927    |        |
 |    928    |        |    929    |        |    930    |        |
-|    931    |        |    932    |        |    933    |        |
+|    931    |        |    [932](divide-and-conquer/%23932.py)    |    divide-and-conquer    |    933    |        |
 |    934    |        |    935    |        |    936    |        |
 |    937    |        |    938    |        |    939    |        |
 |    940    |        |    941    |        |    942    |        |
@@ -397,7 +397,7 @@
 |    1168    |        |    1169    |        |    1170    |        |
 |    1171    |        |    1172    |        |    1173    |        |
 |    1174    |        |    1175    |        |    1176    |        |
-|    1177    |        |    1178    |        |    1179    |        |
+|    [1177](string/%231177.py)    |    string    |    1178    |        |    1179    |        |
 |    1180    |        |    1181    |        |    1182    |        |
 |    1183    |        |    1184    |        |    1185    |        |
 |    1186    |        |    1187    |        |    1188    |        |
