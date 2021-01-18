@@ -1,4 +1,4 @@
-## LeetCode Solutions (382/1800)
+## LeetCode Solutions (386/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -103,7 +103,7 @@
 |    [286](breadth-first-search/%23286.py)    |    breadth-first-search    |    [287](array/%23287.py)    |    array    |    288    |        |
 |    [289](array/%23289.py)    |    array    |    290    |        |    291    |        |
 |    292    |        |    293    |        |    294    |        |
-|    295    |        |    [296](math/%23296.py)    |    math    |    297    |        |
+|    [295](heap/%23295.py)    |    heap    |    [296](math/%23296.py)    |    math    |    297    |        |
 |    298    |        |    [299](array/%23299.py)    |    array    |    [300](dynamic-programming/%23300.py)    |    dynamic-programming    |
 |    301    |        |    302    |        |    [303](dynamic-programming/%23303.py)    |    dynamic-programming    |
 |    304    |        |    305    |        |    306    |        |
@@ -239,7 +239,7 @@
 |    694    |        |    [695](depth-first-search/%23695.py)    |    depth-first-search    |    696    |        |
 |    697    |        |    [698](recursion/%23698.py)    |    recursion    |    699    |        |
 |    700    |        |    701    |        |    702    |        |
-|    703    |        |    704    |        |    705    |        |
+|    [703](heap/%23703.py)    |    heap    |    704    |        |    705    |        |
 |    706    |        |    707    |        |    708    |        |
 |    709    |        |    710    |        |    711    |        |
 |    712    |        |    713    |        |    714    |        |
@@ -257,7 +257,7 @@
 |    748    |        |    749    |        |    750    |        |
 |    751    |        |    752    |        |    753    |        |
 |    754    |        |    755    |        |    756    |        |
-|    757    |        |    758    |        |    759    |        |
+|    757    |        |    758    |        |    [759](heap/%23759.py)    |    heap    |
 |    760    |        |    761    |        |    762    |        |
 |    [763](greedy/%23763.py)    |    greedy    |    764    |        |    765    |        |
 |    766    |        |    [767](greedy/%23767.py)    |    greedy    |    768    |        |
@@ -295,7 +295,7 @@
 |    862    |        |    [863](tree/%23863.py)    |    tree    |    864    |        |
 |    865    |        |    866    |        |    867    |        |
 |    868    |        |    869    |        |    870    |        |
-|    871    |        |    872    |        |    873    |        |
+|    [871](heap/%23871.py)    |    heap    |    872    |        |    873    |        |
 |    874    |        |    875    |        |    [876](linked-list/%23876.py)    |    linked-list    |
 |    [877](dynamic-programming/%23877.py)    |    dynamic-programming    |    878    |        |    879    |        |
 |    880    |        |    881    |        |    882    |        |
