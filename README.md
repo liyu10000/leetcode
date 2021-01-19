@@ -1,4 +1,4 @@
-## LeetCode Solutions (386/1800)
+## LeetCode Solutions (391/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -28,7 +28,7 @@
 |    [61](two-pointers/%2361.py)    |    two-pointers    |    [62](dynamic-programming/%2362.py)    |    dynamic-programming    |    [63](dynamic-programming/%2363.py)    |    dynamic-programming    |
 |    [64](dynamic-programming/%2364.py)    |    dynamic-programming    |    [65](math/%2365.py)    |    math    |    [66](array/%2366.py)    |    array    |
 |    [67](math/%2367.py)    |    math    |    [68](string/%2368.py)    |    string    |    [69](math/%2369.py)    |    math    |
-|    [70](dynamic-programming/%2370.py)    |    dynamic-programming    |    [71](stack/%2371.py)    |    stack    |    72    |        |
+|    [70](dynamic-programming/%2370.py)    |    dynamic-programming    |    [71](stack/%2371.py)    |    stack    |    [72](dynamic-programming/%2372.py)    |    dynamic-programming    |
 |    [73](array/%2373.py)    |    array    |    [74](binary-search/%2374.py)    |    binary-search    |    [75](sort/%2375.py)    |    sort    |
 |    [76](two-pointers/%2376.py)    |    two-pointers    |    [77](backtracking/%2377.py)    |    backtracking    |    [78](bit-manipulation/%2378.py)    |    bit-manipulation    |
 |    [79](backtracking/%2379.py)    |    backtracking    |    [80](two-pointers/%2380.py)    |    two-pointers    |    [81](binary-search/%2381.py)    |    binary-search    |
@@ -51,14 +51,14 @@
 |    [130](union-find/%23130.py)    |    union-find    |    [131](backtracking/%23131.py)    |    backtracking    |    132    |        |
 |    [133](graph/%23133.py)    |    graph    |    [134](greedy/%23134.py)    |    greedy    |    135    |        |
 |    [136](hash-table/%23136.py)    |    hash-table    |    [137](bit-manipulation/%23137.py)    |    bit-manipulation    |    [138](hash-table/%23138.py)    |    hash-table    |
-|    [139](dynamic-programming/%23139.py)    |    dynamic-programming    |    140    |        |    [141](linked-list/%23141.py)    |    linked-list    |
+|    [139](dynamic-programming/%23139.py)    |    dynamic-programming    |    [140](dynamic-programming/%23140.py)    |    dynamic-programming    |    [141](linked-list/%23141.py)    |    linked-list    |
 |    142    |        |    143    |        |    [144](stack/%23144.py)    |    stack    |
 |    [145](stack/%23145.py)    |    stack    |    [146](design/%23146.py)    |    design    |    [147](sort/%23147.py)    |    sort    |
 |    [148](sort/%23148.py)    |    sort    |    [149](math/%23149.py)    |    math    |    [150](stack/%23150.py)    |    stack    |
 |    [151](string/%23151.py)    |    string    |    [152](dynamic-programming/%23152.py)    |    dynamic-programming    |    [153](binary-search/%23153.py)    |    binary-search    |
 |    154    |        |    [155](stack/%23155.py)    |    stack    |    156    |        |
 |    157    |        |    158    |        |    159    |        |
-|    [160](linked-list/%23160.cpp)    |    linked-list    |    161    |        |    [162](binary-search/%23162.py)    |    binary-search    |
+|    [160](linked-list/%23160.cpp)    |    linked-list    |    [161](string/%23161.py)    |    string    |    [162](binary-search/%23162.py)    |    binary-search    |
 |    163    |        |    164    |        |    [165](math/%23165.py)    |    math    |
 |    [166](hash-table/%23166.py)    |    hash-table    |    167    |        |    [168](math/%23168.py)    |    math    |
 |    [169](bit-manipulation/%23169.py)    |    bit-manipulation    |    170    |        |    [171](math/%23171.py)    |    math    |
@@ -242,7 +242,7 @@
 |    [703](heap/%23703.py)    |    heap    |    704    |        |    705    |        |
 |    706    |        |    707    |        |    708    |        |
 |    709    |        |    710    |        |    711    |        |
-|    712    |        |    713    |        |    714    |        |
+|    [712](dynamic-programming/%23712.py)    |    dynamic-programming    |    713    |        |    714    |        |
 |    715    |        |    716    |        |    717    |        |
 |    [718](dynamic-programming/%23718.py)    |    dynamic-programming    |    719    |        |    720    |        |
 |    [721](union-find/%23721.py)    |    union-find    |    722    |        |    [723](array/%23723.py)    |    array    |
@@ -416,7 +416,7 @@
 |    1225    |        |    1226    |        |    [1227](dynamic-programming/%231227.py)    |    dynamic-programming    |
 |    1228    |        |    [1229](two-pointers/%231229.py)    |    two-pointers    |    1230    |        |
 |    1231    |        |    1232    |        |    1233    |        |
-|    1234    |        |    1235    |        |    1236    |        |
+|    1234    |        |    [1235](dynamic-programming/%231235.py)    |    dynamic-programming    |    1236    |        |
 |    1237    |        |    1238    |        |    [1239](backtracking/%231239.py)    |    backtracking    |
 |    1240    |        |    1241    |        |    1242    |        |
 |    1243    |        |    1244    |        |    1245    |        |
