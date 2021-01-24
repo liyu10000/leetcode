@@ -1,4 +1,4 @@
-## LeetCode Solutions (391/1800)
+## LeetCode Solutions (397/1800)
 
 ### This is the hub recording my progress on leetcode.
 
@@ -19,7 +19,7 @@
 |    [34](binary-search/%2334.py)    |    binary-search    |    [35](binary-search/%2335.py)    |    binary-search    |    [36](hash-table/%2336.py)    |    hash-table    |
 |    37    |        |    38    |        |    [39](backtracking/%2339.py)    |    backtracking    |
 |    [40](backtracking/%2340.py)    |    backtracking    |    [41](array/%2341.py)    |    array    |    42    |        |
-|    43    |        |    44    |        |    45    |        |
+|    43    |        |    44    |        |    [45](greedy/%2345.py)    |    greedy    |
 |    [46](backtracking/%2346.py)    |    backtracking    |    [47](backtracking/%2347.py)    |    backtracking    |    [48](array/%2348.py)    |    array    |
 |    [49](hash-table/%2349.py)    |    hash-table    |    [50](binary-search/%2350.py)    |    binary-search    |    51    |        |
 |    52    |        |    [53](dynamic-programming/%2353.py)    |    dynamic-programming    |    [54](array/%2354.py)    |    array    |
@@ -169,7 +169,7 @@
 |    484    |        |    485    |        |    486    |        |
 |    487    |        |    488    |        |    489    |        |
 |    490    |        |    491    |        |    492    |        |
-|    [493](divide-and-conquer/%23493.py)    |    divide-and-conquer    |    494    |        |    495    |        |
+|    [493](divide-and-conquer/%23493.py)    |    divide-and-conquer    |    [494](dynamic-programming/%23494.py)    |    dynamic-programming    |    495    |        |
 |    [496](stack/%23496.py)    |    stack    |    497    |        |    498    |        |
 |    499    |        |    500    |        |    501    |        |
 |    502    |        |    [503](stack/%23503.py)    |    stack    |    504    |        |
@@ -234,7 +234,7 @@
 |    679    |        |    [680](string/%23680.py)    |    string    |    681    |        |
 |    682    |        |    683    |        |    [684](union-find/%23684.py)    |    union-find    |
 |    685    |        |    686    |        |    [687](recursion/%23687.py)    |    recursion    |
-|    688    |        |    689    |        |    [690](tree/%23690.py)    |    tree    |
+|    [688](dynamic-programming/%23688.py)    |    dynamic-programming    |    689    |        |    [690](tree/%23690.py)    |    tree    |
 |    691    |        |    [692](trie/%23692.py)    |    trie    |    693    |        |
 |    694    |        |    [695](depth-first-search/%23695.py)    |    depth-first-search    |    696    |        |
 |    697    |        |    [698](recursion/%23698.py)    |    recursion    |    699    |        |
@@ -315,7 +315,7 @@
 |    922    |        |    923    |        |    924    |        |
 |    925    |        |    926    |        |    927    |        |
 |    928    |        |    929    |        |    930    |        |
-|    931    |        |    [932](divide-and-conquer/%23932.py)    |    divide-and-conquer    |    933    |        |
+|    [931](dynamic-programming/%23931.py)    |    dynamic-programming    |    [932](divide-and-conquer/%23932.py)    |    divide-and-conquer    |    933    |        |
 |    934    |        |    935    |        |    936    |        |
 |    937    |        |    938    |        |    939    |        |
 |    940    |        |    941    |        |    942    |        |
@@ -332,7 +332,7 @@
 |    [973](divide-and-conquer/%23973.py)    |    divide-and-conquer    |    [974](hash-table/%23974.py)    |    hash-table    |    975    |        |
 |    976    |        |    977    |        |    [978](sliding-window/%23978.py)    |    sliding-window    |
 |    979    |        |    980    |        |    [981](binary-search/%23981.py)    |    binary-search    |
-|    982    |        |    983    |        |    984    |        |
+|    982    |        |    [983](dynamic-programming/%23983.py)    |    dynamic-programming    |    984    |        |
 |    985    |        |    [986](two-pointers/%23986.py)    |    two-pointers    |    [987](tree/%23987.py)    |    tree    |
 |    988    |        |    989    |        |    990    |        |
 |    991    |        |    992    |        |    [993](breadth-first-search/%23993.py)    |    breadth-first-search    |
@@ -389,7 +389,7 @@
 |    1144    |        |    1145    |        |    1146    |        |
 |    1147    |        |    1148    |        |    1149    |        |
 |    1150    |        |    1151    |        |    1152    |        |
-|    1153    |        |    1154    |        |    1155    |        |
+|    1153    |        |    1154    |        |    [1155](dynamic-programming/%231155.py)    |    dynamic-programming    |
 |    1156    |        |    1157    |        |    1158    |        |
 |    1159    |        |    1160    |        |    1161    |        |
 |    [1162](breadth-first-search/%231162.py)    |    breadth-first-search    |    1163    |        |    1164    |        |
